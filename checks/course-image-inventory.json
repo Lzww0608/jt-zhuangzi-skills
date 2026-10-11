@@ -1,0 +1,123 @@
+{
+  "source": "neiqipian",
+  "pages": 1458,
+  "pages_with_raster_images": 11,
+  "image_pages": [
+    {
+      "page": 1,
+      "images": [
+        {
+          "object": 10,
+          "width": 32,
+          "height": 32
+        }
+      ]
+    },
+    {
+      "page": 184,
+      "images": [
+        {
+          "object": 1748,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 236,
+      "images": [
+        {
+          "object": 1802,
+          "width": 2,
+          "height": 2
+        },
+        {
+          "object": 1804,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 238,
+      "images": [
+        {
+          "object": 1808,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1052,
+      "images": [
+        {
+          "object": 2624,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1056,
+      "images": [
+        {
+          "object": 2630,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1328,
+      "images": [
+        {
+          "object": 2904,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1331,
+      "images": [
+        {
+          "object": 2909,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1339,
+      "images": [
+        {
+          "object": 2919,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1393,
+      "images": [
+        {
+          "object": 2975,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    },
+    {
+      "page": 1399,
+      "images": [
+        {
+          "object": 2983,
+          "width": 2,
+          "height": 2
+        }
+      ]
+    }
+  ],
+  "method": "inspect image XObjects recursively through form resources without decoding; vector layout still preserved in original PDF"
+}

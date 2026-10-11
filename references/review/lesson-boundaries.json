@@ -1,0 +1,946 @@
+{
+  "method": "94 source headings found uniquely on catalog start pages; half-open character spans split shared pages without discarding previous tails",
+  "offset_unit": "Python Unicode character index into unmodified JSONL page text",
+  "lessons": [
+    {
+      "number": 1,
+      "start_page": 6,
+      "start_offset": 21,
+      "end_page": 14,
+      "end_offset": 469,
+      "source_heading": "01 庄子班开班明义：JT 叔叔劝退学生·修道务必体用合一",
+      "characters_before_heading_on_start_page": 21,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 2,
+      "start_page": 14,
+      "start_offset": 469,
+      "end_page": 28,
+      "end_offset": 339,
+      "source_heading": "02 庄子的文学外包装纸：象征物·《庄子》内七篇鸟瞰",
+      "characters_before_heading_on_start_page": 469,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 3,
+      "start_page": 28,
+      "start_offset": 339,
+      "end_page": 40,
+      "end_offset": 821,
+      "source_heading": "03 逍遥游开篇释义：小大之辩的相对幸福·与金城武的同窗岁月",
+      "characters_before_heading_on_start_page": 339,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 4,
+      "start_page": 40,
+      "start_offset": 821,
+      "end_page": 52,
+      "end_offset": 36,
+      "source_heading": "04 逍遥游：情绪独立与达人的相对幸福·逍遥之虚舟心法",
+      "characters_before_heading_on_start_page": 821,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 5,
+      "start_page": 52,
+      "start_offset": 36,
+      "end_page": 66,
+      "end_offset": 612,
+      "source_heading": "05 复习课·道家认同的自我价值·材与不材之中道·RBG 玩家心态",
+      "characters_before_heading_on_start_page": 36,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 6,
+      "start_page": 66,
+      "start_offset": 612,
+      "end_page": 81,
+      "end_offset": 22,
+      "source_heading": "06 逍遥游：龙蛇混杂·《心经》解读·宗教外挂防毒程序·圣人无名",
+      "characters_before_heading_on_start_page": 612,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 7,
+      "start_page": 81,
+      "start_offset": 22,
+      "end_page": 96,
+      "end_offset": 335,
+      "source_heading": "07 逍遥游：恩宠状态神人无功反思中西医及养生曝倪海厦死因",
+      "characters_before_heading_on_start_page": 22,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 8,
+      "start_page": 96,
+      "start_offset": 335,
+      "end_page": 111,
+      "end_offset": 941,
+      "source_heading": "08 逍遥游结尾：不被世界认可的无用之用·反思行善积德做富帅",
+      "characters_before_heading_on_start_page": 335,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 9,
+      "start_page": 111,
+      "start_offset": 941,
+      "end_page": 125,
+      "end_offset": 28,
+      "source_heading": "09 齐物论开篇：庄子基本功～心力修炼·不能自已的天籁·丧 ego 大法",
+      "characters_before_heading_on_start_page": 941,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 10,
+      "start_page": 125,
+      "start_offset": 28,
+      "end_page": 139,
+      "end_offset": 659,
+      "source_heading": "10 齐物论：好辩头脑的成因·耶稣按才受托的比喻",
+      "characters_before_heading_on_start_page": 28,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 11,
+      "start_page": 139,
+      "start_offset": 659,
+      "end_page": 153,
+      "end_offset": 100,
+      "source_heading": "11 齐物论：情绪背后的信念分析·虑叹的发展过程·再批慈济做功德",
+      "characters_before_heading_on_start_page": 659,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 12,
+      "start_page": 153,
+      "start_offset": 100,
+      "end_page": 171,
+      "end_offset": 73,
+      "source_heading": "12 变蛰与姚佚启态·我搞错了·调和灵肉的道家美学·艾滋病成因分析",
+      "characters_before_heading_on_start_page": 100,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 13,
+      "start_page": 171,
+      "start_offset": 73,
+      "end_page": 185,
+      "end_offset": 162,
+      "source_heading": "13 齐物论：信念与疾病·双赢的吵架·成心而师之是非",
+      "characters_before_heading_on_start_page": 73,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 14,
+      "start_page": 185,
+      "start_offset": 162,
+      "end_page": 198,
+      "end_offset": 209,
+      "source_heading": "14 齐物论：拥抱黑暗面·彼是之道枢·马与非马·道家的人生试验场",
+      "characters_before_heading_on_start_page": 162,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 15,
+      "start_page": 198,
+      "start_offset": 209,
+      "end_page": 211,
+      "end_offset": 346,
+      "source_heading": "15 齐物论：有容乃大的天下无敌·不知其然的正能量·道与爱的相对论",
+      "characters_before_heading_on_start_page": 209,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 16,
+      "start_page": 211,
+      "start_offset": 346,
+      "end_page": 227,
+      "end_offset": 23,
+      "source_heading": "16 齐物论:庄子的真爱·人人皆神通·新兴宗教的形成·超级辩论大法",
+      "characters_before_heading_on_start_page": 346,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 17,
+      "start_page": 227,
+      "start_offset": 23,
+      "end_page": 240,
+      "end_offset": 339,
+      "source_heading": "17 齐物论：调和正负元素·观念的作用力与反作用力·辩有不见",
+      "characters_before_heading_on_start_page": 23,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 18,
+      "start_page": 240,
+      "start_offset": 339,
+      "end_page": 252,
+      "end_offset": 784,
+      "source_heading": "18 齐物论：爱生活爱自己·安然活在不知道中·上帝的度量",
+      "characters_before_heading_on_start_page": 339,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 19,
+      "start_page": 252,
+      "start_offset": 784,
+      "end_page": 266,
+      "end_offset": 23,
+      "source_heading": "19 齐物论：相由心生·脚踏实地的理想主义者·好恶分明的赤子之心",
+      "characters_before_heading_on_start_page": 784,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 20,
+      "start_page": 266,
+      "start_offset": 23,
+      "end_page": 276,
+      "end_offset": 878,
+      "source_heading": "20 齐物论：尊重非主流·知知与知不知·利害无变之心·潜在意识渗漏",
+      "characters_before_heading_on_start_page": 23,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 21,
+      "start_page": 276,
+      "start_offset": 878,
+      "end_page": 287,
+      "end_offset": 48,
+      "source_heading": "21 齐物论：男女的刻板印象·先做朋友后恋爱·理性的情绪",
+      "characters_before_heading_on_start_page": 878,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 22,
+      "start_page": 287,
+      "start_offset": 48,
+      "end_page": 302,
+      "end_offset": 121,
+      "source_heading": "22 齐物论：世界非我家·对死亡的好奇·梦的解析与练习",
+      "characters_before_heading_on_start_page": 48,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 23,
+      "start_page": 302,
+      "start_offset": 121,
+      "end_page": 317,
+      "end_offset": 119,
+      "source_heading": "23 齐物论:无意识的自我辩论·AV 与死亡·和吵架以天倪·天下无敌心法",
+      "characters_before_heading_on_start_page": 121,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 24,
+      "start_page": 317,
+      "start_offset": 119,
+      "end_page": 330,
+      "end_offset": 1076,
+      "source_heading": "24 齐物论：教中医心得·但求自保·负面信念危机·怦然心动的人生",
+      "characters_before_heading_on_start_page": 119,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 25,
+      "start_page": 330,
+      "start_offset": 1076,
+      "end_page": 347,
+      "end_offset": 517,
+      "source_heading": "25 齐物论：人际的能量互动·魍魉问影·忧郁症躁郁症案例",
+      "characters_before_heading_on_start_page": 1076,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 26,
+      "start_page": 347,
+      "start_offset": 517,
+      "end_page": 358,
+      "end_offset": 541,
+      "source_heading": "26 齐物论：向宗教道德开刀·权威角色与信徒的互虐过程",
+      "characters_before_heading_on_start_page": 517,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 27,
+      "start_page": 358,
+      "start_offset": 541,
+      "end_page": 373,
+      "end_offset": 152,
+      "source_heading": "27 齐物论：向医疗保健开炮·负面催眠指令·能逃不能挡的业障",
+      "characters_before_heading_on_start_page": 541,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 28,
+      "start_page": 373,
+      "start_offset": 152,
+      "end_page": 387,
+      "end_offset": 600,
+      "source_heading": "28 齐物论结尾：身体感的后味·物化与同理心·疾病是上帝的情书",
+      "characters_before_heading_on_start_page": 152,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 29,
+      "start_page": 387,
+      "start_offset": 600,
+      "end_page": 396,
+      "end_offset": 604,
+      "source_heading": "29 渔父开篇:庄子的精英主义·论养生狂·论传教热情·二重代偿反应",
+      "characters_before_heading_on_start_page": 600,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 30,
+      "start_page": 396,
+      "start_offset": 604,
+      "end_page": 413,
+      "end_offset": 160,
+      "source_heading": "30 渔父：理想与悲观主义者·脚踏实地之看准份位做事·能量效益",
+      "characters_before_heading_on_start_page": 604,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 31,
+      "start_page": 413,
+      "start_offset": 160,
+      "end_page": 426,
+      "end_offset": 810,
+      "source_heading": "31 渔父：感应与道德·四患八疵·美国的被害妄想·真力与假力",
+      "characters_before_heading_on_start_page": 160,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 32,
+      "start_page": 426,
+      "start_offset": 810,
+      "end_page": 446,
+      "end_offset": 23,
+      "source_heading": "32 渔父：小三无罪·JT 自曝中医人生之路·耶稣的疾呼·弗力兹与赛斯",
+      "characters_before_heading_on_start_page": 810,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 33,
+      "start_page": 446,
+      "start_offset": 23,
+      "end_page": 461,
+      "end_offset": 520,
+      "source_heading": "33 渔父：行动是最有效的进行·道德等危机·妖魔化的男女·娘与gay",
+      "characters_before_heading_on_start_page": 23,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 34,
+      "start_page": 461,
+      "start_offset": 520,
+      "end_page": 484,
+      "end_offset": 329,
+      "source_heading": "34 渔父:摆荡结构·不妥协不控制·优雅地具象愿景·不为救人学中医",
+      "characters_before_heading_on_start_page": 520,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 35,
+      "start_page": 484,
+      "start_offset": 329,
+      "end_page": 498,
+      "end_offset": 795,
+      "source_heading": "35 渔父：呵护心想事成大法·论拜偶像·论毒品·论倪海厦",
+      "characters_before_heading_on_start_page": 329,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 36,
+      "start_page": 498,
+      "start_offset": 795,
+      "end_page": 519,
+      "end_offset": 588,
+      "source_heading": "36 渔父结尾·养生主开篇:生命主轴·失焦的人生·阻抗最小的生活方式",
+      "characters_before_heading_on_start_page": 795,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 37,
+      "start_page": 519,
+      "start_offset": 588,
+      "end_page": 538,
+      "end_offset": 553,
+      "source_heading": "37 养生主：庖丁解牛功·以技进道·因循原则·心灵残废者",
+      "characters_before_heading_on_start_page": 588,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 38,
+      "start_page": 538,
+      "start_offset": 553,
+      "end_page": 548,
+      "end_offset": 1229,
+      "source_heading": "38 养生主：因循与赛斯心法·如何约会·踌躇满志法·伤心的高兴·珍惜冲动",
+      "characters_before_heading_on_start_page": 553,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 39,
+      "start_page": 548,
+      "start_offset": 1229,
+      "end_page": 563,
+      "end_offset": 635,
+      "source_heading": "39 养生主：苦难的奥秘·价值完成·论过度医疗·不抱怨的人生",
+      "characters_before_heading_on_start_page": 1229,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 40,
+      "start_page": 563,
+      "start_offset": 635,
+      "end_page": 583,
+      "end_offset": 812,
+      "source_heading": "40 养生主结尾：抱怨的自觉·遁天倍情之刑·直面死亡·达生篇简介",
+      "characters_before_heading_on_start_page": 635,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 41,
+      "start_page": 583,
+      "start_offset": 812,
+      "end_page": 603,
+      "end_offset": 560,
+      "source_heading": "41 达生开篇：明理心境·老子三宝·呆呆的幸福·弃世相天",
+      "characters_before_heading_on_start_page": 812,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 42,
+      "start_page": 603,
+      "start_offset": 560,
+      "end_page": 618,
+      "end_offset": 1197,
+      "source_heading": "42 达生篇：叔叔晒心境·达人幸福指标·论患得患失",
+      "characters_before_heading_on_start_page": 560,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 43,
+      "start_page": 618,
+      "start_offset": 1197,
+      "end_page": 633,
+      "end_offset": 87,
+      "source_heading": "43 达生篇：赶小羊·自私的猪·虚与委蛇·论说病·舍象",
+      "characters_before_heading_on_start_page": 1197,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 44,
+      "start_page": 633,
+      "start_offset": 87,
+      "end_page": 651,
+      "end_offset": 23,
+      "source_heading": "44 达生篇：科学 or 巫术·呆若木鸡·再论代偿反应·受害者心态",
+      "characters_before_heading_on_start_page": 87,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 45,
+      "start_page": 651,
+      "start_offset": 23,
+      "end_page": 665,
+      "end_offset": 1261,
+      "source_heading": "45 番外篇之问题解答：论追求外表·论慈悲·论帮人",
+      "characters_before_heading_on_start_page": 23,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 46,
+      "start_page": 665,
+      "start_offset": 1261,
+      "end_page": 682,
+      "end_offset": 343,
+      "source_heading": "46 达生篇结尾：梓庆削木·以天合天·配速·忘知是非之心",
+      "characters_before_heading_on_start_page": 1261,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 47,
+      "start_page": 682,
+      "start_offset": 343,
+      "end_page": 699,
+      "end_offset": 866,
+      "source_heading": "47 人间世开篇：思考力与心力·加害者受害者与拯救者",
+      "characters_before_heading_on_start_page": 343,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 48,
+      "start_page": 699,
+      "start_offset": 866,
+      "end_page": 714,
+      "end_offset": 261,
+      "source_heading": "48 人间世：做好人的瘾头",
+      "characters_before_heading_on_start_page": 866,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 49,
+      "start_page": 714,
+      "start_offset": 261,
+      "end_page": 729,
+      "end_offset": 968,
+      "source_heading": "49 人间世：造孽·被强奸的头脑·可爱的养生·无用的师心·气听法",
+      "characters_before_heading_on_start_page": 261,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 50,
+      "start_page": 729,
+      "start_offset": 968,
+      "end_page": 744,
+      "end_offset": 1201,
+      "source_heading": "50 人间世：心斋·我以为·和身体做朋友·贴标签·气听法校准",
+      "characters_before_heading_on_start_page": 968,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 51,
+      "start_page": 744,
+      "start_offset": 1201,
+      "end_page": 758,
+      "end_offset": 1124,
+      "source_heading": "51 人间世：肌抗力学详解内七篇·叔叔心法汇总·心的世界",
+      "characters_before_heading_on_start_page": 1201,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 52,
+      "start_page": 758,
+      "start_offset": 1124,
+      "end_page": 773,
+      "end_offset": 400,
+      "source_heading": "52 人间世：自恋狂·驯服表面意识·说禅·叔叔传武林内功秘籍",
+      "characters_before_heading_on_start_page": 1124,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 53,
+      "start_page": 773,
+      "start_offset": 400,
+      "end_page": 787,
+      "end_offset": 691,
+      "source_heading": "53 人间世：庄子基本功·没有选择的选择·夹心饼干为人之道",
+      "characters_before_heading_on_start_page": 400,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 54,
+      "start_page": 787,
+      "start_offset": 691,
+      "end_page": 806,
+      "end_offset": 417,
+      "source_heading": "54 人间世：命义二戒·看破生死得失·挑拨离间的传话",
+      "characters_before_heading_on_start_page": 691,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 55,
+      "start_page": 806,
+      "start_offset": 417,
+      "end_page": 821,
+      "end_offset": 876,
+      "source_heading": "55 人间世：心向内与心向外·论杀人狂·道德与真理·道德残障",
+      "characters_before_heading_on_start_page": 417,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 56,
+      "start_page": 821,
+      "start_offset": 876,
+      "end_page": 841,
+      "end_offset": 886,
+      "source_heading": "56 人间世：身体感得 bug·第五项修炼·以巧斗力·先小人后君子",
+      "characters_before_heading_on_start_page": 876,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 57,
+      "start_page": 841,
+      "start_offset": 886,
+      "end_page": 858,
+      "end_offset": 320,
+      "source_heading": "57 人间世：优势角色螳臂当车·贱招反弹止恶心法",
+      "characters_before_heading_on_start_page": 886,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 58,
+      "start_page": 858,
+      "start_offset": 320,
+      "end_page": 874,
+      "end_offset": 1108,
+      "source_heading": "58 人间世：救世主情节·不从恶·爱心树的悲哀",
+      "characters_before_heading_on_start_page": 320,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 59,
+      "start_page": 874,
+      "start_offset": 1108,
+      "end_page": 890,
+      "end_offset": 247,
+      "source_heading": "59 人间世：爱与婊·真小人·面子道德与罪恶感",
+      "characters_before_heading_on_start_page": 1108,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 60,
+      "start_page": 890,
+      "start_offset": 247,
+      "end_page": 906,
+      "end_offset": 1221,
+      "source_heading": "60 人间世结尾：坏的教育·无用之用·支离其德",
+      "characters_before_heading_on_start_page": 247,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 61,
+      "start_page": 906,
+      "start_offset": 1221,
+      "end_page": 930,
+      "end_offset": 23,
+      "source_heading": "61 德充符开篇：性感与可爱的对决·调阴阳·道家房中术",
+      "characters_before_heading_on_start_page": 1221,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 62,
+      "start_page": 930,
+      "start_offset": 23,
+      "end_page": 940,
+      "end_offset": 23,
+      "source_heading": "62 德充符：强势角色心理结构·德充符大纲",
+      "characters_before_heading_on_start_page": 23,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 63,
+      "start_page": 940,
+      "start_offset": 23,
+      "end_page": 954,
+      "end_offset": 1099,
+      "source_heading": "63 德充符：逸病与劳病·两难局面·论抽烟的合法性·魔力信仰者",
+      "characters_before_heading_on_start_page": 23,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 64,
+      "start_page": 954,
+      "start_offset": 1099,
+      "end_page": 966,
+      "end_offset": 106,
+      "source_heading": "64 德充符：人之原罪·止水明镜心法·论耍大牌",
+      "characters_before_heading_on_start_page": 1099,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 65,
+      "start_page": 966,
+      "start_offset": 106,
+      "end_page": 986,
+      "end_offset": 770,
+      "source_heading": "65 德充符：容许别人做自己·生命本态·情绪与恐惧",
+      "characters_before_heading_on_start_page": 106,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 66,
+      "start_page": 986,
+      "start_offset": 770,
+      "end_page": 1018,
+      "end_offset": 425,
+      "source_heading": "66 德充符：恐惧与应该·冤枉与解释·随时随地练庄子·安之若命",
+      "characters_before_heading_on_start_page": 770,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 67,
+      "start_page": 1018,
+      "start_offset": 425,
+      "end_page": 1036,
+      "end_offset": 195,
+      "source_heading": "67 德充符：价值顺位·白象状态·疗愈密码好人难改",
+      "characters_before_heading_on_start_page": 425,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 68,
+      "start_page": 1036,
+      "start_offset": 195,
+      "end_page": 1049,
+      "end_offset": 833,
+      "source_heading": "68 德充符：才全德不形者·幸福的感染力",
+      "characters_before_heading_on_start_page": 195,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 69,
+      "start_page": 1049,
+      "start_offset": 833,
+      "end_page": 1066,
+      "end_offset": 577,
+      "source_heading": "69 德充符：反省控制·说郝万山·长德忘形·散讲兴趣应酬养生",
+      "characters_before_heading_on_start_page": 833,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 70,
+      "start_page": 1066,
+      "start_offset": 577,
+      "end_page": 1077,
+      "end_offset": 792,
+      "source_heading": "70 德充符结尾：不拼才会赢·道家无情人",
+      "characters_before_heading_on_start_page": 577,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 71,
+      "start_page": 1077,
+      "start_offset": 792,
+      "end_page": 1094,
+      "end_offset": 24,
+      "source_heading": "71 大宗师开篇：佛法难求·叔叔心向内反省体验",
+      "characters_before_heading_on_start_page": 792,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 72,
+      "start_page": 1094,
+      "start_offset": 24,
+      "end_page": 1111,
+      "end_offset": 678,
+      "source_heading": "72 大宗师：叔叔散讲助教反省人生",
+      "characters_before_heading_on_start_page": 24,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 73,
+      "start_page": 1111,
+      "start_offset": 678,
+      "end_page": 1122,
+      "end_offset": 1116,
+      "source_heading": "73 大宗师：道家成功学·论伪科学",
+      "characters_before_heading_on_start_page": 678,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 74,
+      "start_page": 1122,
+      "start_offset": 1116,
+      "end_page": 1139,
+      "end_offset": 24,
+      "source_heading": "74 大宗师：建立气密关系，助教走火入魔练庄子，为道日损法",
+      "characters_before_heading_on_start_page": 1116,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 75,
+      "start_page": 1139,
+      "start_offset": 24,
+      "end_page": 1151,
+      "end_offset": 274,
+      "source_heading": "75 大宗师：道家真人检验表·少数人的真理·梦与象征物·中医风水巫术",
+      "characters_before_heading_on_start_page": 24,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 76,
+      "start_page": 1151,
+      "start_offset": 274,
+      "end_page": 1165,
+      "end_offset": 257,
+      "source_heading": "76 大宗师：信念投影世界·不以人助天·喜怒通四时",
+      "characters_before_heading_on_start_page": 274,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 77,
+      "start_page": 1165,
+      "start_offset": 257,
+      "end_page": 1184,
+      "end_offset": 24,
+      "source_heading": "77 大宗师：自我疗愈·论整理魔法·论帮人·乐通物·有亲非仁",
+      "characters_before_heading_on_start_page": 257,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 78,
+      "start_page": 1184,
+      "start_offset": 24,
+      "end_page": 1200,
+      "end_offset": 266,
+      "source_heading": "78 大宗师：论机会算计·中医课与日文课·买ZARA·利害·原则·忘我自适",
+      "characters_before_heading_on_start_page": 24,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 79,
+      "start_page": 1200,
+      "start_offset": 266,
+      "end_page": 1217,
+      "end_offset": 152,
+      "source_heading": "79 大宗师：牺牲无效论·觚而不坚·存在感与压迫感·忍耐与逃避",
+      "characters_before_heading_on_start_page": 266,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 80,
+      "start_page": 1217,
+      "start_offset": 152,
+      "end_page": 1234,
+      "end_offset": 763,
+      "source_heading": "80 大宗师：色与空·华而不实·感知后表现·论礼貌·不受控制",
+      "characters_before_heading_on_start_page": 152,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 81,
+      "start_page": 1234,
+      "start_offset": 763,
+      "end_page": 1252,
+      "end_offset": 960,
+      "source_heading": "81 大宗师：遁天倍刑·论开中医课·法喜充满黑线王·批道德主义",
+      "characters_before_heading_on_start_page": 763,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 82,
+      "start_page": 1252,
+      "start_offset": 960,
+      "end_page": 1269,
+      "end_offset": 409,
+      "source_heading": "82 大宗师：道家生活品控·打通好恶之心·诚实对己·论养生饮食",
+      "characters_before_heading_on_start_page": 960,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 83,
+      "start_page": 1269,
+      "start_offset": 409,
+      "end_page": 1290,
+      "end_offset": 300,
+      "source_heading": "83 大宗师：真小人养生诀窍·降服天父主宰·修真之旅·放生训练",
+      "characters_before_heading_on_start_page": 409,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 84,
+      "start_page": 1290,
+      "start_offset": 300,
+      "end_page": 1306,
+      "end_offset": 24,
+      "source_heading": "84 大宗师：道之科幻描述·实践的魔法人生·道家超级秘籍广告",
+      "characters_before_heading_on_start_page": 300,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 85,
+      "start_page": 1306,
+      "start_offset": 24,
+      "end_page": 1324,
+      "end_offset": 905,
+      "source_heading": "85 大宗师：撄宁大法·内在世界·论教课·论婆媳关系",
+      "characters_before_heading_on_start_page": 24,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 86,
+      "start_page": 1324,
+      "start_offset": 905,
+      "end_page": 1344,
+      "end_offset": 1185,
+      "source_heading": "86 大宗师：坦然面对·死生一体·论临终医疗·论婚礼",
+      "characters_before_heading_on_start_page": 905,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 87,
+      "start_page": 1344,
+      "start_offset": 1185,
+      "end_page": 1358,
+      "end_offset": 615,
+      "source_heading": "87 大宗师：自解·论死亡痛苦·君子与小人·上帝主权·心有灵犀",
+      "characters_before_heading_on_start_page": 1185,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 88,
+      "start_page": 1358,
+      "start_offset": 615,
+      "end_page": 1372,
+      "end_offset": 147,
+      "source_heading": "88 大宗师：儒家与道家·忘乎道术·孟孙才办丧事·应酬与渴望",
+      "characters_before_heading_on_start_page": 615,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 89,
+      "start_page": 1372,
+      "start_offset": 147,
+      "end_page": 1387,
+      "end_offset": 158,
+      "source_heading": "89 大宗师：性命之学▪意识模拟▪修道病▪赛斯心法▪内在宗教",
+      "characters_before_heading_on_start_page": 147,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 90,
+      "start_page": 1387,
+      "start_offset": 158,
+      "end_page": 1400,
+      "end_offset": 473,
+      "source_heading": "90 大宗师：坐忘·免疫力杀手·如何面对苦难·黑暗美学·庄子管理学",
+      "characters_before_heading_on_start_page": 158,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 91,
+      "start_page": 1400,
+      "start_offset": 473,
+      "end_page": 1412,
+      "end_offset": 330,
+      "source_heading": "91 应帝王：教主信徒模式·内在小孩",
+      "characters_before_heading_on_start_page": 473,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 92,
+      "start_page": 1412,
+      "start_offset": 330,
+      "end_page": 1427,
+      "end_offset": 789,
+      "source_heading": "92 应帝王：能力与份位·无事生定·功德逆天·明王之治",
+      "characters_before_heading_on_start_page": 330,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 93,
+      "start_page": 1427,
+      "start_offset": 789,
+      "end_page": 1441,
+      "end_offset": 1002,
+      "source_heading": "93 应帝王：可爱的师徒关系·处理亲密关系·自私能量普度众生",
+      "characters_before_heading_on_start_page": 789,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    },
+    {
+      "number": 94,
+      "start_page": 1441,
+      "start_offset": 1002,
+      "end_page": 1454,
+      "end_offset": 589,
+      "source_heading": "94 应帝王：道家救世主·回溯基本功",
+      "characters_before_heading_on_start_page": 1002,
+      "before_heading_note": "includes any page header and previous lecture tail; not a semantic tail count"
+    }
+  ]
+}

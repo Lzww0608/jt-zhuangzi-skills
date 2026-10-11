@@ -1,0 +1,848 @@
+[
+  {
+    "number": 1,
+    "title": "庄子班开班明义：JT 叔叔劝退学生·修道务必体用合一",
+    "start": 6,
+    "end": 14,
+    "start_offset": 21,
+    "source_heading": "01 庄子班开班明义：JT 叔叔劝退学生·修道务必体用合一",
+    "end_offset": 469
+  },
+  {
+    "number": 2,
+    "title": "庄子的文学外包装纸：象征物· 《庄子》内七篇鸟瞰",
+    "start": 14,
+    "end": 28,
+    "start_offset": 469,
+    "source_heading": "02 庄子的文学外包装纸：象征物·《庄子》内七篇鸟瞰",
+    "end_offset": 339
+  },
+  {
+    "number": 3,
+    "title": "逍遥游开篇释义：小大之辩的相对幸福·与金城武的同窗岁月",
+    "start": 28,
+    "end": 40,
+    "start_offset": 339,
+    "source_heading": "03 逍遥游开篇释义：小大之辩的相对幸福·与金城武的同窗岁月",
+    "end_offset": 821
+  },
+  {
+    "number": 4,
+    "title": "逍遥游：情绪独立与达人的相对幸福·逍遥之虚舟心法",
+    "start": 40,
+    "end": 52,
+    "start_offset": 821,
+    "source_heading": "04 逍遥游：情绪独立与达人的相对幸福·逍遥之虚舟心法",
+    "end_offset": 36
+  },
+  {
+    "number": 5,
+    "title": "复习课·道家认同的自我价值·材与不材之中道·RBG 玩家心态",
+    "start": 52,
+    "end": 66,
+    "start_offset": 36,
+    "source_heading": "05 复习课·道家认同的自我价值·材与不材之中道·RBG 玩家心态",
+    "end_offset": 612
+  },
+  {
+    "number": 6,
+    "title": "逍遥游：龙蛇混杂· 《心经》解读·宗教外挂防毒程序·圣人无名",
+    "start": 66,
+    "end": 81,
+    "start_offset": 612,
+    "source_heading": "06 逍遥游：龙蛇混杂·《心经》解读·宗教外挂防毒程序·圣人无名",
+    "end_offset": 22
+  },
+  {
+    "number": 7,
+    "title": "逍遥游：恩宠状态神人无功反思中西医及养生曝倪海厦死因",
+    "start": 81,
+    "end": 96,
+    "start_offset": 22,
+    "source_heading": "07 逍遥游：恩宠状态神人无功反思中西医及养生曝倪海厦死因",
+    "end_offset": 335
+  },
+  {
+    "number": 8,
+    "title": "逍遥游结尾：不被世界认可的无用之用·反思行善积德做富帅",
+    "start": 96,
+    "end": 111,
+    "start_offset": 335,
+    "source_heading": "08 逍遥游结尾：不被世界认可的无用之用·反思行善积德做富帅",
+    "end_offset": 941
+  },
+  {
+    "number": 9,
+    "title": "齐物论开篇：庄子基本功～心力修炼·不能自已的天籁·丧ego 大法",
+    "start": 111,
+    "end": 125,
+    "start_offset": 941,
+    "source_heading": "09 齐物论开篇：庄子基本功～心力修炼·不能自已的天籁·丧 ego 大法",
+    "end_offset": 28
+  },
+  {
+    "number": 10,
+    "title": "齐物论：好辩头脑的成因·耶稣按才受托的比喻",
+    "start": 125,
+    "end": 139,
+    "start_offset": 28,
+    "source_heading": "10 齐物论：好辩头脑的成因·耶稣按才受托的比喻",
+    "end_offset": 659
+  },
+  {
+    "number": 11,
+    "title": "齐物论：情绪背后的信念分析·虑叹的发展过程·再批慈济做功德",
+    "start": 139,
+    "end": 153,
+    "start_offset": 659,
+    "source_heading": "11 齐物论：情绪背后的信念分析·虑叹的发展过程·再批慈济做功德",
+    "end_offset": 100
+  },
+  {
+    "number": 12,
+    "title": "变蛰与姚佚启态·我搞错了·调和灵肉的道家美学·艾滋病成因分析",
+    "start": 153,
+    "end": 171,
+    "start_offset": 100,
+    "source_heading": "12 变蛰与姚佚启态·我搞错了·调和灵肉的道家美学·艾滋病成因分析",
+    "end_offset": 73
+  },
+  {
+    "number": 13,
+    "title": "齐物论：信念与疾病·双赢的吵架·成心而师之是非",
+    "start": 171,
+    "end": 185,
+    "start_offset": 73,
+    "source_heading": "13 齐物论：信念与疾病·双赢的吵架·成心而师之是非",
+    "end_offset": 162
+  },
+  {
+    "number": 14,
+    "title": "齐物论：拥抱黑暗面·彼是之道枢·马与非马·道家的人生试验场",
+    "start": 185,
+    "end": 198,
+    "start_offset": 162,
+    "source_heading": "14 齐物论：拥抱黑暗面·彼是之道枢·马与非马·道家的人生试验场",
+    "end_offset": 209
+  },
+  {
+    "number": 15,
+    "title": "齐物论：有容乃大的天下无敌·不知其然的正能量·道与爱的相对论",
+    "start": 198,
+    "end": 211,
+    "start_offset": 209,
+    "source_heading": "15 齐物论：有容乃大的天下无敌·不知其然的正能量·道与爱的相对论",
+    "end_offset": 346
+  },
+  {
+    "number": 16,
+    "title": "齐物论:庄子的真爱·人人皆神通·新兴宗教的形成·超级辩论大法",
+    "start": 211,
+    "end": 227,
+    "start_offset": 346,
+    "source_heading": "16 齐物论:庄子的真爱·人人皆神通·新兴宗教的形成·超级辩论大法",
+    "end_offset": 23
+  },
+  {
+    "number": 17,
+    "title": "齐物论：调和正负元素·观念的作用力与反作用力·辩有不见",
+    "start": 227,
+    "end": 240,
+    "start_offset": 23,
+    "source_heading": "17 齐物论：调和正负元素·观念的作用力与反作用力·辩有不见",
+    "end_offset": 339
+  },
+  {
+    "number": 18,
+    "title": "齐物论：爱生活爱自己·安然活在不知道中·上帝的度量",
+    "start": 240,
+    "end": 252,
+    "start_offset": 339,
+    "source_heading": "18 齐物论：爱生活爱自己·安然活在不知道中·上帝的度量",
+    "end_offset": 784
+  },
+  {
+    "number": 19,
+    "title": "齐物论：相由心生·脚踏实地的理想主义者·好恶分明的赤子之心",
+    "start": 252,
+    "end": 266,
+    "start_offset": 784,
+    "source_heading": "19 齐物论：相由心生·脚踏实地的理想主义者·好恶分明的赤子之心",
+    "end_offset": 23
+  },
+  {
+    "number": 20,
+    "title": "齐物论：尊重非主流·知知与知不知·利害无变之心·潜在意识渗漏",
+    "start": 266,
+    "end": 276,
+    "start_offset": 23,
+    "source_heading": "20 齐物论：尊重非主流·知知与知不知·利害无变之心·潜在意识渗漏",
+    "end_offset": 878
+  },
+  {
+    "number": 21,
+    "title": "齐物论：男女的刻板印象·先做朋友后恋爱·理性的情绪",
+    "start": 276,
+    "end": 287,
+    "start_offset": 878,
+    "source_heading": "21 齐物论：男女的刻板印象·先做朋友后恋爱·理性的情绪",
+    "end_offset": 48
+  },
+  {
+    "number": 22,
+    "title": "齐物论：世界非我家·对死亡的好奇·梦的解析与练习",
+    "start": 287,
+    "end": 302,
+    "start_offset": 48,
+    "source_heading": "22 齐物论：世界非我家·对死亡的好奇·梦的解析与练习",
+    "end_offset": 121
+  },
+  {
+    "number": 23,
+    "title": "齐物论:无意识的自我辩论·AV 与死亡·和吵架以天倪·天下无敌心法",
+    "start": 302,
+    "end": 317,
+    "start_offset": 121,
+    "source_heading": "23 齐物论:无意识的自我辩论·AV 与死亡·和吵架以天倪·天下无敌心法",
+    "end_offset": 119
+  },
+  {
+    "number": 24,
+    "title": "齐物论：教中医心得·但求自保·负面信念危机·怦然心动的人生",
+    "start": 317,
+    "end": 330,
+    "start_offset": 119,
+    "source_heading": "24 齐物论：教中医心得·但求自保·负面信念危机·怦然心动的人生",
+    "end_offset": 1076
+  },
+  {
+    "number": 25,
+    "title": "齐物论：人际的能量互动·魍魉问影·忧郁症躁郁症案例",
+    "start": 330,
+    "end": 347,
+    "start_offset": 1076,
+    "source_heading": "25 齐物论：人际的能量互动·魍魉问影·忧郁症躁郁症案例",
+    "end_offset": 517
+  },
+  {
+    "number": 26,
+    "title": "齐物论：向宗教道德开刀·权威角色与信徒的互虐过程",
+    "start": 347,
+    "end": 358,
+    "start_offset": 517,
+    "source_heading": "26 齐物论：向宗教道德开刀·权威角色与信徒的互虐过程",
+    "end_offset": 541
+  },
+  {
+    "number": 27,
+    "title": "齐物论：向医疗保健开炮·负面催眠指令·能逃不能挡的业障",
+    "start": 358,
+    "end": 373,
+    "start_offset": 541,
+    "source_heading": "27 齐物论：向医疗保健开炮·负面催眠指令·能逃不能挡的业障",
+    "end_offset": 152
+  },
+  {
+    "number": 28,
+    "title": "齐物论结尾：身体感的后味·物化与同理心·疾病是上帝的情书",
+    "start": 373,
+    "end": 387,
+    "start_offset": 152,
+    "source_heading": "28 齐物论结尾：身体感的后味·物化与同理心·疾病是上帝的情书",
+    "end_offset": 600
+  },
+  {
+    "number": 29,
+    "title": "渔父开篇:庄子的精英主义·论养生狂·论传教热情·二重代偿反应",
+    "start": 387,
+    "end": 396,
+    "start_offset": 600,
+    "source_heading": "29 渔父开篇:庄子的精英主义·论养生狂·论传教热情·二重代偿反应",
+    "end_offset": 604
+  },
+  {
+    "number": 30,
+    "title": "渔父：理想与悲观主义者·脚踏实地之看准份位做事·能量效益",
+    "start": 396,
+    "end": 413,
+    "start_offset": 604,
+    "source_heading": "30 渔父：理想与悲观主义者·脚踏实地之看准份位做事·能量效益",
+    "end_offset": 160
+  },
+  {
+    "number": 31,
+    "title": "渔父：感应与道德·四患八疵·美国的被害妄想·真力与假力",
+    "start": 413,
+    "end": 426,
+    "start_offset": 160,
+    "source_heading": "31 渔父：感应与道德·四患八疵·美国的被害妄想·真力与假力",
+    "end_offset": 810
+  },
+  {
+    "number": 32,
+    "title": "渔父：小三无罪·JT 自曝中医人生之路·耶稣的疾呼·弗力兹与赛斯",
+    "start": 426,
+    "end": 446,
+    "start_offset": 810,
+    "source_heading": "32 渔父：小三无罪·JT 自曝中医人生之路·耶稣的疾呼·弗力兹与赛斯",
+    "end_offset": 23
+  },
+  {
+    "number": 33,
+    "title": "渔父：行动是最有效的进行·道德等危机·妖魔化的男女·娘与gay",
+    "start": 446,
+    "end": 461,
+    "start_offset": 23,
+    "source_heading": "33 渔父：行动是最有效的进行·道德等危机·妖魔化的男女·娘与gay",
+    "end_offset": 520
+  },
+  {
+    "number": 34,
+    "title": "渔父:摆荡结构·不妥协不控制·优雅地具象愿景·不为救人学中医",
+    "start": 461,
+    "end": 484,
+    "start_offset": 520,
+    "source_heading": "34 渔父:摆荡结构·不妥协不控制·优雅地具象愿景·不为救人学中医",
+    "end_offset": 329
+  },
+  {
+    "number": 35,
+    "title": "渔父：呵护心想事成大法·论拜偶像·论毒品·论倪海厦",
+    "start": 484,
+    "end": 498,
+    "start_offset": 329,
+    "source_heading": "35 渔父：呵护心想事成大法·论拜偶像·论毒品·论倪海厦",
+    "end_offset": 795
+  },
+  {
+    "number": 36,
+    "title": "渔父结尾·养生主开篇:生命主轴·失焦的人生·阻抗最小的生活方式",
+    "start": 498,
+    "end": 519,
+    "start_offset": 795,
+    "source_heading": "36 渔父结尾·养生主开篇:生命主轴·失焦的人生·阻抗最小的生活方式",
+    "end_offset": 588
+  },
+  {
+    "number": 37,
+    "title": "养生主：庖丁解牛功·以技进道·因循原则·心灵残废者",
+    "start": 519,
+    "end": 538,
+    "start_offset": 588,
+    "source_heading": "37 养生主：庖丁解牛功·以技进道·因循原则·心灵残废者",
+    "end_offset": 553
+  },
+  {
+    "number": 38,
+    "title": "养生主：因循与赛斯心法·如何约会·踌躇满志法·伤心的高兴·珍惜冲动",
+    "start": 538,
+    "end": 548,
+    "start_offset": 553,
+    "source_heading": "38 养生主：因循与赛斯心法·如何约会·踌躇满志法·伤心的高兴·珍惜冲动",
+    "end_offset": 1229
+  },
+  {
+    "number": 39,
+    "title": "养生主：苦难的奥秘·价值完成·论过度医疗·不抱怨的人生",
+    "start": 548,
+    "end": 563,
+    "start_offset": 1229,
+    "source_heading": "39 养生主：苦难的奥秘·价值完成·论过度医疗·不抱怨的人生",
+    "end_offset": 635
+  },
+  {
+    "number": 40,
+    "title": "养生主结尾：抱怨的自觉·遁天倍情之刑·直面死亡·达生篇简介",
+    "start": 563,
+    "end": 583,
+    "start_offset": 635,
+    "source_heading": "40 养生主结尾：抱怨的自觉·遁天倍情之刑·直面死亡·达生篇简介",
+    "end_offset": 812
+  },
+  {
+    "number": 41,
+    "title": "达生开篇：明理心境·老子三宝·呆呆的幸福·弃世相天",
+    "start": 583,
+    "end": 603,
+    "start_offset": 812,
+    "source_heading": "41 达生开篇：明理心境·老子三宝·呆呆的幸福·弃世相天",
+    "end_offset": 560
+  },
+  {
+    "number": 42,
+    "title": "达生篇：叔叔晒心境·达人幸福指标·论患得患失",
+    "start": 603,
+    "end": 618,
+    "start_offset": 560,
+    "source_heading": "42 达生篇：叔叔晒心境·达人幸福指标·论患得患失",
+    "end_offset": 1197
+  },
+  {
+    "number": 43,
+    "title": "达生篇：赶小羊·自私的猪·虚与委蛇·论说病·舍象",
+    "start": 618,
+    "end": 633,
+    "start_offset": 1197,
+    "source_heading": "43 达生篇：赶小羊·自私的猪·虚与委蛇·论说病·舍象",
+    "end_offset": 87
+  },
+  {
+    "number": 44,
+    "title": "达生篇：科学or 巫术·呆若木鸡·再论代偿反应·受害者心态",
+    "start": 633,
+    "end": 651,
+    "start_offset": 87,
+    "source_heading": "44 达生篇：科学 or 巫术·呆若木鸡·再论代偿反应·受害者心态",
+    "end_offset": 23
+  },
+  {
+    "number": 45,
+    "title": "番外篇之问题解答：论追求外表·论慈悲·论帮人",
+    "start": 651,
+    "end": 665,
+    "start_offset": 23,
+    "source_heading": "45 番外篇之问题解答：论追求外表·论慈悲·论帮人",
+    "end_offset": 1261
+  },
+  {
+    "number": 46,
+    "title": "达生篇结尾：梓庆削木·以天合天·配速·忘知是非之心",
+    "start": 665,
+    "end": 682,
+    "start_offset": 1261,
+    "source_heading": "46 达生篇结尾：梓庆削木·以天合天·配速·忘知是非之心",
+    "end_offset": 343
+  },
+  {
+    "number": 47,
+    "title": "人间世开篇：思考力与心力·加害者受害者与拯救者",
+    "start": 682,
+    "end": 699,
+    "start_offset": 343,
+    "source_heading": "47 人间世开篇：思考力与心力·加害者受害者与拯救者",
+    "end_offset": 866
+  },
+  {
+    "number": 48,
+    "title": "人间世：做好人的瘾头",
+    "start": 699,
+    "end": 714,
+    "start_offset": 866,
+    "source_heading": "48 人间世：做好人的瘾头",
+    "end_offset": 261
+  },
+  {
+    "number": 49,
+    "title": "人间世：造孽·被强奸的头脑·可爱的养生·无用的师心·气听法",
+    "start": 714,
+    "end": 729,
+    "start_offset": 261,
+    "source_heading": "49 人间世：造孽·被强奸的头脑·可爱的养生·无用的师心·气听法",
+    "end_offset": 968
+  },
+  {
+    "number": 50,
+    "title": "人间世：心斋·我以为·和身体做朋友·贴标签·气听法校准",
+    "start": 729,
+    "end": 744,
+    "start_offset": 968,
+    "source_heading": "50 人间世：心斋·我以为·和身体做朋友·贴标签·气听法校准",
+    "end_offset": 1201
+  },
+  {
+    "number": 51,
+    "title": "人间世：肌抗力学详解内七篇·叔叔心法汇总·心的世界",
+    "start": 744,
+    "end": 758,
+    "start_offset": 1201,
+    "source_heading": "51 人间世：肌抗力学详解内七篇·叔叔心法汇总·心的世界",
+    "end_offset": 1124
+  },
+  {
+    "number": 52,
+    "title": "人间世：自恋狂·驯服表面意识·说禅·叔叔传武林内功秘籍",
+    "start": 758,
+    "end": 773,
+    "start_offset": 1124,
+    "source_heading": "52 人间世：自恋狂·驯服表面意识·说禅·叔叔传武林内功秘籍",
+    "end_offset": 400
+  },
+  {
+    "number": 53,
+    "title": "人间世：庄子基本功·没有选择的选择·夹心饼干为人之道",
+    "start": 773,
+    "end": 787,
+    "start_offset": 400,
+    "source_heading": "53 人间世：庄子基本功·没有选择的选择·夹心饼干为人之道",
+    "end_offset": 691
+  },
+  {
+    "number": 54,
+    "title": "人间世：命义二戒·看破生死得失·挑拨离间的传话",
+    "start": 787,
+    "end": 806,
+    "start_offset": 691,
+    "source_heading": "54 人间世：命义二戒·看破生死得失·挑拨离间的传话",
+    "end_offset": 417
+  },
+  {
+    "number": 55,
+    "title": "人间世：心向内与心向外·论杀人狂·道德与真理·道德残障",
+    "start": 806,
+    "end": 821,
+    "start_offset": 417,
+    "source_heading": "55 人间世：心向内与心向外·论杀人狂·道德与真理·道德残障",
+    "end_offset": 876
+  },
+  {
+    "number": 56,
+    "title": "人间世：身体感得 bug·第五项修炼·以巧斗力·先小人后君子",
+    "start": 821,
+    "end": 841,
+    "start_offset": 876,
+    "source_heading": "56 人间世：身体感得 bug·第五项修炼·以巧斗力·先小人后君子",
+    "end_offset": 886
+  },
+  {
+    "number": 57,
+    "title": "人间世：优势角色螳臂当车·贱招反弹止恶心法",
+    "start": 841,
+    "end": 858,
+    "start_offset": 886,
+    "source_heading": "57 人间世：优势角色螳臂当车·贱招反弹止恶心法",
+    "end_offset": 320
+  },
+  {
+    "number": 58,
+    "title": "人间世：救世主情节·不从恶·爱心树的悲哀",
+    "start": 858,
+    "end": 874,
+    "start_offset": 320,
+    "source_heading": "58 人间世：救世主情节·不从恶·爱心树的悲哀",
+    "end_offset": 1108
+  },
+  {
+    "number": 59,
+    "title": "人间世：爱与婊·真小人·面子道德与罪恶感",
+    "start": 874,
+    "end": 890,
+    "start_offset": 1108,
+    "source_heading": "59 人间世：爱与婊·真小人·面子道德与罪恶感",
+    "end_offset": 247
+  },
+  {
+    "number": 60,
+    "title": "人间世结尾：坏的教育·无用之用·支离其德",
+    "start": 890,
+    "end": 906,
+    "start_offset": 247,
+    "source_heading": "60 人间世结尾：坏的教育·无用之用·支离其德",
+    "end_offset": 1221
+  },
+  {
+    "number": 61,
+    "title": "德充符开篇：性感与可爱的对决·调阴阳·道家房中术",
+    "start": 906,
+    "end": 930,
+    "start_offset": 1221,
+    "source_heading": "61 德充符开篇：性感与可爱的对决·调阴阳·道家房中术",
+    "end_offset": 23
+  },
+  {
+    "number": 62,
+    "title": "德充符：强势角色心理结构·德充符大纲",
+    "start": 930,
+    "end": 940,
+    "start_offset": 23,
+    "source_heading": "62 德充符：强势角色心理结构·德充符大纲",
+    "end_offset": 23
+  },
+  {
+    "number": 63,
+    "title": "德充符：逸病与劳病·两难局面·论抽烟的合法性·魔力信仰者",
+    "start": 940,
+    "end": 954,
+    "start_offset": 23,
+    "source_heading": "63 德充符：逸病与劳病·两难局面·论抽烟的合法性·魔力信仰者",
+    "end_offset": 1099
+  },
+  {
+    "number": 64,
+    "title": "德充符：人之原罪·止水明镜心法·论耍大牌",
+    "start": 954,
+    "end": 966,
+    "start_offset": 1099,
+    "source_heading": "64 德充符：人之原罪·止水明镜心法·论耍大牌",
+    "end_offset": 106
+  },
+  {
+    "number": 65,
+    "title": "德充符：容许别人做自己·生命本态·情绪与恐惧",
+    "start": 966,
+    "end": 986,
+    "start_offset": 106,
+    "source_heading": "65 德充符：容许别人做自己·生命本态·情绪与恐惧",
+    "end_offset": 770
+  },
+  {
+    "number": 66,
+    "title": "德充符：恐惧与应该·冤枉与解释·随时随地练庄子·安之若命",
+    "start": 986,
+    "end": 1018,
+    "start_offset": 770,
+    "source_heading": "66 德充符：恐惧与应该·冤枉与解释·随时随地练庄子·安之若命",
+    "end_offset": 425
+  },
+  {
+    "number": 67,
+    "title": "德充符：价值顺位·白象状态·疗愈密码好人难改",
+    "start": 1018,
+    "end": 1036,
+    "start_offset": 425,
+    "source_heading": "67 德充符：价值顺位·白象状态·疗愈密码好人难改",
+    "end_offset": 195
+  },
+  {
+    "number": 68,
+    "title": "德充符：才全德不形者·幸福的感染力",
+    "start": 1036,
+    "end": 1049,
+    "start_offset": 195,
+    "source_heading": "68 德充符：才全德不形者·幸福的感染力",
+    "end_offset": 833
+  },
+  {
+    "number": 69,
+    "title": "德充符：反省控制·说郝万山·长德忘形·散讲兴趣应酬养生",
+    "start": 1049,
+    "end": 1066,
+    "start_offset": 833,
+    "source_heading": "69 德充符：反省控制·说郝万山·长德忘形·散讲兴趣应酬养生",
+    "end_offset": 577
+  },
+  {
+    "number": 70,
+    "title": "德充符结尾：不拼才会赢·道家无情人",
+    "start": 1066,
+    "end": 1077,
+    "start_offset": 577,
+    "source_heading": "70 德充符结尾：不拼才会赢·道家无情人",
+    "end_offset": 792
+  },
+  {
+    "number": 71,
+    "title": "大宗师开篇：佛法难求·叔叔心向内反省体验",
+    "start": 1077,
+    "end": 1094,
+    "start_offset": 792,
+    "source_heading": "71 大宗师开篇：佛法难求·叔叔心向内反省体验",
+    "end_offset": 24
+  },
+  {
+    "number": 72,
+    "title": "大宗师：叔叔散讲助教反省人生",
+    "start": 1094,
+    "end": 1111,
+    "start_offset": 24,
+    "source_heading": "72 大宗师：叔叔散讲助教反省人生",
+    "end_offset": 678
+  },
+  {
+    "number": 73,
+    "title": "大宗师：道家成功学·论伪科学",
+    "start": 1111,
+    "end": 1122,
+    "start_offset": 678,
+    "source_heading": "73 大宗师：道家成功学·论伪科学",
+    "end_offset": 1116
+  },
+  {
+    "number": 74,
+    "title": "大宗师：建立气密关系，助教走火入魔练庄子，为道日损法",
+    "start": 1122,
+    "end": 1139,
+    "start_offset": 1116,
+    "source_heading": "74 大宗师：建立气密关系，助教走火入魔练庄子，为道日损法",
+    "end_offset": 24
+  },
+  {
+    "number": 75,
+    "title": "大宗师：道家真人检验表·少数人的真理·梦与象征物·中医风水巫术",
+    "start": 1139,
+    "end": 1151,
+    "start_offset": 24,
+    "source_heading": "75 大宗师：道家真人检验表·少数人的真理·梦与象征物·中医风水巫术",
+    "end_offset": 274
+  },
+  {
+    "number": 76,
+    "title": "大宗师：信念投影世界·不以人助天·喜怒通四时",
+    "start": 1151,
+    "end": 1165,
+    "start_offset": 274,
+    "source_heading": "76 大宗师：信念投影世界·不以人助天·喜怒通四时",
+    "end_offset": 257
+  },
+  {
+    "number": 77,
+    "title": "大宗师：自我疗愈·论整理魔法·论帮人·乐通物·有亲非仁",
+    "start": 1165,
+    "end": 1184,
+    "start_offset": 257,
+    "source_heading": "77 大宗师：自我疗愈·论整理魔法·论帮人·乐通物·有亲非仁",
+    "end_offset": 24
+  },
+  {
+    "number": 78,
+    "title": "大宗师：论机会算计·中医课与日文课·买ZARA·利害·原则·忘我自适",
+    "start": 1184,
+    "end": 1200,
+    "start_offset": 24,
+    "source_heading": "78 大宗师：论机会算计·中医课与日文课·买ZARA·利害·原则·忘我自适",
+    "end_offset": 266
+  },
+  {
+    "number": 79,
+    "title": "大宗师：牺牲无效论·觚而不坚·存在感与压迫感·忍耐与逃避",
+    "start": 1200,
+    "end": 1217,
+    "start_offset": 266,
+    "source_heading": "79 大宗师：牺牲无效论·觚而不坚·存在感与压迫感·忍耐与逃避",
+    "end_offset": 152
+  },
+  {
+    "number": 80,
+    "title": "大宗师：色与空·华而不实·感知后表现·论礼貌·不受控制",
+    "start": 1217,
+    "end": 1234,
+    "start_offset": 152,
+    "source_heading": "80 大宗师：色与空·华而不实·感知后表现·论礼貌·不受控制",
+    "end_offset": 763
+  },
+  {
+    "number": 81,
+    "title": "大宗师：遁天倍刑·论开中医课·法喜充满黑线王·批道德主义",
+    "start": 1234,
+    "end": 1252,
+    "start_offset": 763,
+    "source_heading": "81 大宗师：遁天倍刑·论开中医课·法喜充满黑线王·批道德主义",
+    "end_offset": 960
+  },
+  {
+    "number": 82,
+    "title": "大宗师：道家生活品控·打通好恶之心·诚实对己·论养生饮食",
+    "start": 1252,
+    "end": 1269,
+    "start_offset": 960,
+    "source_heading": "82 大宗师：道家生活品控·打通好恶之心·诚实对己·论养生饮食",
+    "end_offset": 409
+  },
+  {
+    "number": 83,
+    "title": "大宗师：真小人养生诀窍·降服天父主宰·修真之旅·放生训练",
+    "start": 1269,
+    "end": 1290,
+    "start_offset": 409,
+    "source_heading": "83 大宗师：真小人养生诀窍·降服天父主宰·修真之旅·放生训练",
+    "end_offset": 300
+  },
+  {
+    "number": 84,
+    "title": "大宗师：道之科幻描述·实践的魔法人生·道家超级秘籍广告",
+    "start": 1290,
+    "end": 1306,
+    "start_offset": 300,
+    "source_heading": "84 大宗师：道之科幻描述·实践的魔法人生·道家超级秘籍广告",
+    "end_offset": 24
+  },
+  {
+    "number": 85,
+    "title": "大宗师：撄宁大法·内在世界·论教课·论婆媳关系",
+    "start": 1306,
+    "end": 1324,
+    "start_offset": 24,
+    "source_heading": "85 大宗师：撄宁大法·内在世界·论教课·论婆媳关系",
+    "end_offset": 905
+  },
+  {
+    "number": 86,
+    "title": "大宗师：坦然面对·死生一体·论临终医疗·论婚礼",
+    "start": 1324,
+    "end": 1344,
+    "start_offset": 905,
+    "source_heading": "86 大宗师：坦然面对·死生一体·论临终医疗·论婚礼",
+    "end_offset": 1185
+  },
+  {
+    "number": 87,
+    "title": "大宗师：自解·论死亡痛苦·君子与小人·上帝主权·心有灵犀",
+    "start": 1344,
+    "end": 1358,
+    "start_offset": 1185,
+    "source_heading": "87 大宗师：自解·论死亡痛苦·君子与小人·上帝主权·心有灵犀",
+    "end_offset": 615
+  },
+  {
+    "number": 88,
+    "title": "大宗师：儒家与道家·忘乎道术·孟孙才办丧事·应酬与渴望",
+    "start": 1358,
+    "end": 1372,
+    "start_offset": 615,
+    "source_heading": "88 大宗师：儒家与道家·忘乎道术·孟孙才办丧事·应酬与渴望",
+    "end_offset": 147
+  },
+  {
+    "number": 89,
+    "title": "大宗师：性命之学▪意识模拟▪修道病▪赛斯心法▪内在宗教",
+    "start": 1372,
+    "end": 1387,
+    "start_offset": 147,
+    "source_heading": "89 大宗师：性命之学▪意识模拟▪修道病▪赛斯心法▪内在宗教",
+    "end_offset": 158
+  },
+  {
+    "number": 90,
+    "title": "大宗师：坐忘·免疫力杀手·如何面对苦难·黑暗美学·庄子管理学",
+    "start": 1387,
+    "end": 1400,
+    "start_offset": 158,
+    "source_heading": "90 大宗师：坐忘·免疫力杀手·如何面对苦难·黑暗美学·庄子管理学",
+    "end_offset": 473
+  },
+  {
+    "number": 91,
+    "title": "应帝王：教主信徒模式·内在小孩",
+    "start": 1400,
+    "end": 1412,
+    "start_offset": 473,
+    "source_heading": "91 应帝王：教主信徒模式·内在小孩",
+    "end_offset": 330
+  },
+  {
+    "number": 92,
+    "title": "应帝王：能力与份位·无事生定·功德逆天·明王之治",
+    "start": 1412,
+    "end": 1427,
+    "start_offset": 330,
+    "source_heading": "92 应帝王：能力与份位·无事生定·功德逆天·明王之治",
+    "end_offset": 789
+  },
+  {
+    "number": 93,
+    "title": "应帝王：可爱的师徒关系·处理亲密关系·自私能量普度众生",
+    "start": 1427,
+    "end": 1441,
+    "start_offset": 789,
+    "source_heading": "93 应帝王：可爱的师徒关系·处理亲密关系·自私能量普度众生",
+    "end_offset": 1002
+  },
+  {
+    "number": 94,
+    "title": "应帝王：道家救世主·回溯基本功",
+    "start": 1441,
+    "end": 1454,
+    "start_offset": 1002,
+    "source_heading": "94 应帝王：道家救世主·回溯基本功",
+    "end_offset": 589
+  }
+]

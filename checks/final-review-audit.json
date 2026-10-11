@@ -1,0 +1,97 @@
+{
+  "corpus": {
+    "neiqipian": {
+      "pages": 1458,
+      "characters": 1862219,
+      "chunks": 73,
+      "empty_pages": [],
+      "sha256_ok": true
+    },
+    "jibengong": {
+      "pages": 128,
+      "characters": 76964,
+      "chunks": 8,
+      "empty_pages": [],
+      "sha256_ok": true
+    }
+  },
+  "initial_declared_reading_coverage": {
+    "course-early": {
+      "declared_read_pages": 480,
+      "expected_pages": 480,
+      "complete": true
+    },
+    "course-middle": {
+      "declared_read_pages": 480,
+      "expected_pages": 480,
+      "complete": true
+    },
+    "course-late": {
+      "declared_read_pages": 498,
+      "expected_pages": 498,
+      "complete": true
+    },
+    "jibengong": {
+      "declared_read_pages": 128,
+      "expected_pages": 128,
+      "complete": true
+    }
+  },
+  "independent_second_review": {
+    "course-early": {
+      "pages": 480,
+      "expected_pages": 480,
+      "complete": true,
+      "first": 1,
+      "last": 480,
+      "invalid_page_records": [],
+      "unresolved_references": [],
+      "ledger_sha256": "43f3bec8ee14fca4dfa4bb491fe3f4f72756d14da570dafe4f5bd032dceffc75",
+      "supplement_characters": 60895,
+      "visual_checked_pages": 0
+    },
+    "course-middle": {
+      "pages": 480,
+      "expected_pages": 480,
+      "complete": true,
+      "first": 481,
+      "last": 960,
+      "invalid_page_records": [],
+      "unresolved_references": [],
+      "ledger_sha256": "fe2a3c3911d28be18f6e8aa25d23d1a8a8e9c06796d9441855ee7886695b7630",
+      "supplement_characters": 43585,
+      "visual_checked_pages": 0
+    },
+    "course-late": {
+      "pages": 498,
+      "expected_pages": 498,
+      "complete": true,
+      "first": 961,
+      "last": 1458,
+      "invalid_page_records": [],
+      "unresolved_references": [],
+      "ledger_sha256": "c802a0763f5081a753a7f3f4a9b9afeeeb96c17ffc27caa161ec1b8653a78a5a",
+      "supplement_characters": 62382,
+      "visual_checked_pages": 0
+    },
+    "jibengong": {
+      "pages": 128,
+      "expected_pages": 128,
+      "complete": true,
+      "first": 1,
+      "last": 128,
+      "invalid_page_records": [],
+      "unresolved_references": [],
+      "ledger_sha256": "d9d1abd08ea4032c2503c19eda4e3a728e2488d45178f65971ce0cc5392bf87d",
+      "supplement_characters": 14491,
+      "visual_checked_pages": 128
+    }
+  },
+  "lecture_spans": {
+    "lectures": 94,
+    "body_covered_once": true
+  },
+  "ocr_annotations": 48,
+  "internal_links_checked": 51,
+  "failures": []
+}

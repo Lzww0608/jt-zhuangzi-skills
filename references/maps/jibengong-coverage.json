@@ -1,0 +1,54 @@
+{
+  "source": "jibengong",
+  "total_pages": 128,
+  "batches": [
+    {
+      "start": 1,
+      "end": 16,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 17,
+      "end": 32,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 33,
+      "end": 48,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 49,
+      "end": 64,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 65,
+      "end": 80,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 81,
+      "end": 96,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 97,
+      "end": 112,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    },
+    {
+      "start": 113,
+      "end": 128,
+      "read": true,
+      "method": "完整顺序阅读jt_reader输出，16页一批，输出未截断"
+    }
+  ]
+}

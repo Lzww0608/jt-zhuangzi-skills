@@ -1,0 +1,432 @@
+{
+  "schema_version": 1,
+  "sources": {
+    "neiqipian": {
+      "title": "《庄子》内七篇课程（2012–2013）JT叔叔",
+      "pdf": "assets/source-pdfs/neiqipian-2012-2013.pdf",
+      "sha256": "c15f311dd868d0628f87546ae5bd17aa8884c55419e9f06c8e175b6882e5f5e7",
+      "pages": 1458,
+      "characters": 1862219,
+      "empty_pages": [],
+      "method": "pypdf text layer",
+      "chunks": [
+        {
+          "start": 1,
+          "end": 20,
+          "path": "references/corpus/neiqipian/p0001-p0020.md"
+        },
+        {
+          "start": 21,
+          "end": 40,
+          "path": "references/corpus/neiqipian/p0021-p0040.md"
+        },
+        {
+          "start": 41,
+          "end": 60,
+          "path": "references/corpus/neiqipian/p0041-p0060.md"
+        },
+        {
+          "start": 61,
+          "end": 80,
+          "path": "references/corpus/neiqipian/p0061-p0080.md"
+        },
+        {
+          "start": 81,
+          "end": 100,
+          "path": "references/corpus/neiqipian/p0081-p0100.md"
+        },
+        {
+          "start": 101,
+          "end": 120,
+          "path": "references/corpus/neiqipian/p0101-p0120.md"
+        },
+        {
+          "start": 121,
+          "end": 140,
+          "path": "references/corpus/neiqipian/p0121-p0140.md"
+        },
+        {
+          "start": 141,
+          "end": 160,
+          "path": "references/corpus/neiqipian/p0141-p0160.md"
+        },
+        {
+          "start": 161,
+          "end": 180,
+          "path": "references/corpus/neiqipian/p0161-p0180.md"
+        },
+        {
+          "start": 181,
+          "end": 200,
+          "path": "references/corpus/neiqipian/p0181-p0200.md"
+        },
+        {
+          "start": 201,
+          "end": 220,
+          "path": "references/corpus/neiqipian/p0201-p0220.md"
+        },
+        {
+          "start": 221,
+          "end": 240,
+          "path": "references/corpus/neiqipian/p0221-p0240.md"
+        },
+        {
+          "start": 241,
+          "end": 260,
+          "path": "references/corpus/neiqipian/p0241-p0260.md"
+        },
+        {
+          "start": 261,
+          "end": 280,
+          "path": "references/corpus/neiqipian/p0261-p0280.md"
+        },
+        {
+          "start": 281,
+          "end": 300,
+          "path": "references/corpus/neiqipian/p0281-p0300.md"
+        },
+        {
+          "start": 301,
+          "end": 320,
+          "path": "references/corpus/neiqipian/p0301-p0320.md"
+        },
+        {
+          "start": 321,
+          "end": 340,
+          "path": "references/corpus/neiqipian/p0321-p0340.md"
+        },
+        {
+          "start": 341,
+          "end": 360,
+          "path": "references/corpus/neiqipian/p0341-p0360.md"
+        },
+        {
+          "start": 361,
+          "end": 380,
+          "path": "references/corpus/neiqipian/p0361-p0380.md"
+        },
+        {
+          "start": 381,
+          "end": 400,
+          "path": "references/corpus/neiqipian/p0381-p0400.md"
+        },
+        {
+          "start": 401,
+          "end": 420,
+          "path": "references/corpus/neiqipian/p0401-p0420.md"
+        },
+        {
+          "start": 421,
+          "end": 440,
+          "path": "references/corpus/neiqipian/p0421-p0440.md"
+        },
+        {
+          "start": 441,
+          "end": 460,
+          "path": "references/corpus/neiqipian/p0441-p0460.md"
+        },
+        {
+          "start": 461,
+          "end": 480,
+          "path": "references/corpus/neiqipian/p0461-p0480.md"
+        },
+        {
+          "start": 481,
+          "end": 500,
+          "path": "references/corpus/neiqipian/p0481-p0500.md"
+        },
+        {
+          "start": 501,
+          "end": 520,
+          "path": "references/corpus/neiqipian/p0501-p0520.md"
+        },
+        {
+          "start": 521,
+          "end": 540,
+          "path": "references/corpus/neiqipian/p0521-p0540.md"
+        },
+        {
+          "start": 541,
+          "end": 560,
+          "path": "references/corpus/neiqipian/p0541-p0560.md"
+        },
+        {
+          "start": 561,
+          "end": 580,
+          "path": "references/corpus/neiqipian/p0561-p0580.md"
+        },
+        {
+          "start": 581,
+          "end": 600,
+          "path": "references/corpus/neiqipian/p0581-p0600.md"
+        },
+        {
+          "start": 601,
+          "end": 620,
+          "path": "references/corpus/neiqipian/p0601-p0620.md"
+        },
+        {
+          "start": 621,
+          "end": 640,
+          "path": "references/corpus/neiqipian/p0621-p0640.md"
+        },
+        {
+          "start": 641,
+          "end": 660,
+          "path": "references/corpus/neiqipian/p0641-p0660.md"
+        },
+        {
+          "start": 661,
+          "end": 680,
+          "path": "references/corpus/neiqipian/p0661-p0680.md"
+        },
+        {
+          "start": 681,
+          "end": 700,
+          "path": "references/corpus/neiqipian/p0681-p0700.md"
+        },
+        {
+          "start": 701,
+          "end": 720,
+          "path": "references/corpus/neiqipian/p0701-p0720.md"
+        },
+        {
+          "start": 721,
+          "end": 740,
+          "path": "references/corpus/neiqipian/p0721-p0740.md"
+        },
+        {
+          "start": 741,
+          "end": 760,
+          "path": "references/corpus/neiqipian/p0741-p0760.md"
+        },
+        {
+          "start": 761,
+          "end": 780,
+          "path": "references/corpus/neiqipian/p0761-p0780.md"
+        },
+        {
+          "start": 781,
+          "end": 800,
+          "path": "references/corpus/neiqipian/p0781-p0800.md"
+        },
+        {
+          "start": 801,
+          "end": 820,
+          "path": "references/corpus/neiqipian/p0801-p0820.md"
+        },
+        {
+          "start": 821,
+          "end": 840,
+          "path": "references/corpus/neiqipian/p0821-p0840.md"
+        },
+        {
+          "start": 841,
+          "end": 860,
+          "path": "references/corpus/neiqipian/p0841-p0860.md"
+        },
+        {
+          "start": 861,
+          "end": 880,
+          "path": "references/corpus/neiqipian/p0861-p0880.md"
+        },
+        {
+          "start": 881,
+          "end": 900,
+          "path": "references/corpus/neiqipian/p0881-p0900.md"
+        },
+        {
+          "start": 901,
+          "end": 920,
+          "path": "references/corpus/neiqipian/p0901-p0920.md"
+        },
+        {
+          "start": 921,
+          "end": 940,
+          "path": "references/corpus/neiqipian/p0921-p0940.md"
+        },
+        {
+          "start": 941,
+          "end": 960,
+          "path": "references/corpus/neiqipian/p0941-p0960.md"
+        },
+        {
+          "start": 961,
+          "end": 980,
+          "path": "references/corpus/neiqipian/p0961-p0980.md"
+        },
+        {
+          "start": 981,
+          "end": 1000,
+          "path": "references/corpus/neiqipian/p0981-p1000.md"
+        },
+        {
+          "start": 1001,
+          "end": 1020,
+          "path": "references/corpus/neiqipian/p1001-p1020.md"
+        },
+        {
+          "start": 1021,
+          "end": 1040,
+          "path": "references/corpus/neiqipian/p1021-p1040.md"
+        },
+        {
+          "start": 1041,
+          "end": 1060,
+          "path": "references/corpus/neiqipian/p1041-p1060.md"
+        },
+        {
+          "start": 1061,
+          "end": 1080,
+          "path": "references/corpus/neiqipian/p1061-p1080.md"
+        },
+        {
+          "start": 1081,
+          "end": 1100,
+          "path": "references/corpus/neiqipian/p1081-p1100.md"
+        },
+        {
+          "start": 1101,
+          "end": 1120,
+          "path": "references/corpus/neiqipian/p1101-p1120.md"
+        },
+        {
+          "start": 1121,
+          "end": 1140,
+          "path": "references/corpus/neiqipian/p1121-p1140.md"
+        },
+        {
+          "start": 1141,
+          "end": 1160,
+          "path": "references/corpus/neiqipian/p1141-p1160.md"
+        },
+        {
+          "start": 1161,
+          "end": 1180,
+          "path": "references/corpus/neiqipian/p1161-p1180.md"
+        },
+        {
+          "start": 1181,
+          "end": 1200,
+          "path": "references/corpus/neiqipian/p1181-p1200.md"
+        },
+        {
+          "start": 1201,
+          "end": 1220,
+          "path": "references/corpus/neiqipian/p1201-p1220.md"
+        },
+        {
+          "start": 1221,
+          "end": 1240,
+          "path": "references/corpus/neiqipian/p1221-p1240.md"
+        },
+        {
+          "start": 1241,
+          "end": 1260,
+          "path": "references/corpus/neiqipian/p1241-p1260.md"
+        },
+        {
+          "start": 1261,
+          "end": 1280,
+          "path": "references/corpus/neiqipian/p1261-p1280.md"
+        },
+        {
+          "start": 1281,
+          "end": 1300,
+          "path": "references/corpus/neiqipian/p1281-p1300.md"
+        },
+        {
+          "start": 1301,
+          "end": 1320,
+          "path": "references/corpus/neiqipian/p1301-p1320.md"
+        },
+        {
+          "start": 1321,
+          "end": 1340,
+          "path": "references/corpus/neiqipian/p1321-p1340.md"
+        },
+        {
+          "start": 1341,
+          "end": 1360,
+          "path": "references/corpus/neiqipian/p1341-p1360.md"
+        },
+        {
+          "start": 1361,
+          "end": 1380,
+          "path": "references/corpus/neiqipian/p1361-p1380.md"
+        },
+        {
+          "start": 1381,
+          "end": 1400,
+          "path": "references/corpus/neiqipian/p1381-p1400.md"
+        },
+        {
+          "start": 1401,
+          "end": 1420,
+          "path": "references/corpus/neiqipian/p1401-p1420.md"
+        },
+        {
+          "start": 1421,
+          "end": 1440,
+          "path": "references/corpus/neiqipian/p1421-p1440.md"
+        },
+        {
+          "start": 1441,
+          "end": 1458,
+          "path": "references/corpus/neiqipian/p1441-p1458.md"
+        }
+      ]
+    },
+    "jibengong": {
+      "title": "《庄子基本功》JT叔叔",
+      "pdf": "assets/source-pdfs/jibengong.pdf",
+      "sha256": "f1b1206579720d3a7e2284fc980f180027ccec9db7df1ea14f5d5d1e21226c7a",
+      "pages": 128,
+      "characters": 76964,
+      "empty_pages": [],
+      "method": "Apple Vision accurate zh-Hant/zh-Hans/en-US, 2400px",
+      "chunks": [
+        {
+          "start": 1,
+          "end": 16,
+          "path": "references/corpus/jibengong/p0001-p0016.md"
+        },
+        {
+          "start": 17,
+          "end": 32,
+          "path": "references/corpus/jibengong/p0017-p0032.md"
+        },
+        {
+          "start": 33,
+          "end": 48,
+          "path": "references/corpus/jibengong/p0033-p0048.md"
+        },
+        {
+          "start": 49,
+          "end": 64,
+          "path": "references/corpus/jibengong/p0049-p0064.md"
+        },
+        {
+          "start": 65,
+          "end": 80,
+          "path": "references/corpus/jibengong/p0065-p0080.md"
+        },
+        {
+          "start": 81,
+          "end": 96,
+          "path": "references/corpus/jibengong/p0081-p0096.md"
+        },
+        {
+          "start": 97,
+          "end": 112,
+          "path": "references/corpus/jibengong/p0097-p0112.md"
+        },
+        {
+          "start": 113,
+          "end": 128,
+          "path": "references/corpus/jibengong/p0113-p0128.md"
+        }
+      ]
+    }
+  }
+}

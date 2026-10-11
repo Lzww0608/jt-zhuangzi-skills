@@ -1,0 +1,2022 @@
+{
+  "source": "jibengong",
+  "method": "逐页并排阅读原扫描渲染与原OCR；核对正文、标题、旁注与例子；以既有卡片或本次补充入口登记，不凭read=true替代比对",
+  "pages": [
+    {
+      "page": 1,
+      "topics": [
+        "内篇封面、2013-09-06中欧商学院校友会"
+      ],
+      "examples": [],
+      "covered_by": [
+        "maps/jibengong.md:来源说明"
+      ],
+      "notes": "封面信息与印刷页10一致",
+      "visual_checked": true
+    },
+    {
+      "page": 2,
+      "topics": [
+        "作为使用者谈练习；齐物论七个月；一两句可练十年"
+      ],
+      "examples": [
+        "短讲与长课密度比较"
+      ],
+      "covered_by": [
+        "B01"
+      ],
+      "notes": "完整OCR无实质漏字",
+      "visual_checked": true
+    },
+    {
+      "page": 3,
+      "topics": [
+        "先做到后领悟；数月后情绪复盘；训诂与读诗结合"
+      ],
+      "examples": [
+        "几个月前后烦恼变化"
+      ],
+      "covered_by": [
+        "B01",
+        "BJ01"
+      ],
+      "notes": "完整OCR无实质漏字",
+      "visual_checked": true
+    },
+    {
+      "page": 4,
+      "topics": [
+        "密码书；实践打开下一页；清谈与功夫之别"
+      ],
+      "examples": [
+        "第一扇门与第二把钥匙"
+      ],
+      "covered_by": [
+        "B01",
+        "BJ01"
+      ],
+      "notes": "完整OCR无实质漏字",
+      "visual_checked": true
+    },
+    {
+      "page": 5,
+      "topics": [
+        "密码包装避政治篡改；全真教秘笈解码；铅汞象征"
+      ],
+      "examples": [
+        "胡孚琛、孙不二与先生的家书；灵峰宝塔为鼻子；朱熹改四书"
+      ],
+      "covered_by": [
+        "BJ01"
+      ],
+      "notes": "旧基本功索引没有具名解码例，已补入口",
+      "visual_checked": true
+    },
+    {
+      "page": 6,
+      "topics": [
+        "跨故事同类象征拼读；六合之外存而不论；三人成家笑话"
+      ],
+      "examples": [
+        "大鹏、麻雀、知了、泥龟童话表面"
+      ],
+      "covered_by": [
+        "BJ01",
+        "B02"
+      ],
+      "notes": "旁注六合的上下前后左右三维被OCR错识为三能，另补注",
+      "visual_checked": true
+    },
+    {
+      "page": 7,
+      "topics": [
+        "不知为不知；未知渴望与信仰堵塞；父亲大惑"
+      ],
+      "examples": [
+        "父亲七十多岁仍不知道人生意义；未目睹伊甸园/三十三天"
+      ],
+      "covered_by": [
+        "B02",
+        "maps/jibengong.md:例子p7"
+      ],
+      "notes": "宇宙OCR为字宙，补注；整体论证无遗漏",
+      "visual_checked": true
+    },
+    {
+      "page": 8,
+      "topics": [
+        "不先给宇宙地图；实践实验；探寻内心天与大宇宙意识"
+      ],
+      "examples": [
+        "亲试后烦恼少/心开朗；佛名拆义"
+      ],
+      "covered_by": [
+        "B02",
+        "B03",
+        "BJ01"
+      ],
+      "notes": "小字Shyakwa/Muni/Buddha未完整进入OCR，补入来源阅读方法卡并标记JT释义",
+      "visual_checked": true
+    },
+    {
+      "page": 9,
+      "topics": [
+        "真人幸福无教主光环；姑射神人象征与生活译读"
+      ],
+      "examples": [
+        "煮面摊主；皮肤/身材/气场形象"
+      ],
+      "covered_by": [
+        "B04",
+        "maps/jibengong.md:例子p9–10"
+      ],
+      "notes": "至人無己误作無已，已校读补注；神人医疗描写保留归属",
+      "visual_checked": true
+    },
+    {
+      "page": 10,
+      "topics": [
+        "气藏与无名；教师自嘲；最低阶第一课"
+      ],
+      "examples": [
+        "列子鞋山与师父离开；让子弹飞霸气外露"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p10",
+        "BJ02"
+      ],
+      "notes": "OCR正文完整；电影台词为JT幽默类比",
+      "visual_checked": true
+    },
+    {
+      "page": 11,
+      "topics": [
+        "人生意义；用已知养未知；龙蛇心灵图"
+      ],
+      "examples": [
+        "学生问人生意义；明天更开心"
+      ],
+      "covered_by": [
+        "B03",
+        "BJ02"
+      ],
+      "notes": "OCR正文完整",
+      "visual_checked": true
+    },
+    {
+      "page": 12,
+      "topics": [
+        "本草龙的异次元象征；肉身投影；识神元神；潜在意识与潜意识区分"
+      ],
+      "examples": [
+        "冬潜地表春升打雷；黄元吉中派丹道名称"
+      ],
+      "covered_by": [
+        "B03",
+        "BJ02"
+      ],
+      "notes": "subconsciousness小字遗漏，作为原扫描旁注补入BJ02",
+      "visual_checked": true
+    },
+    {
+      "page": 13,
+      "topics": [
+        "长养非还债；一元本钱与能量回归"
+      ],
+      "examples": [
+        "孩子从父亲拿本钱；主人交仆人麦子"
+      ],
+      "covered_by": [
+        "B03",
+        "maps/jibengong.md:例子p13–14"
+      ],
+      "notes": "OCR正文完整；前世还债非本来源给出的标准答案",
+      "visual_checked": true
+    },
+    {
+      "page": 14,
+      "topics": [
+        "感知力表现力；能量回归；符号不是教条；因舒服而修"
+      ],
+      "examples": [
+        "林姊问修行是否执著；JT回答自己舒服"
+      ],
+      "covered_by": [
+        "B03",
+        "BJ02"
+      ],
+      "notes": "OCR末尾印刷页23未识别，不影响正文；具名对话此前未进入案例入口",
+      "visual_checked": true
+    },
+    {
+      "page": 15,
+      "topics": [
+        "幸福第一顺位；天之小人与人之君子；修真；老庄旁系"
+      ],
+      "examples": [
+        "上帝乖宝宝与人类道德期待逆转"
+      ],
+      "covered_by": [
+        "B04",
+        "BJ02"
+      ],
+      "notes": "OCR正文完整；老庄关系是JT自述推断",
+      "visual_checked": true
+    },
+    {
+      "page": 16,
+      "topics": [
+        "真、冥、性命；彼岸；玩家角色与修真"
+      ],
+      "examples": [
+        "The Matrix（扫描旁注駭客任務）；增加分数/经验值"
+      ],
+      "covered_by": [
+        "B03",
+        "BJ02"
+      ],
+      "notes": "冥冥/暗物质、駭客任務、经验值等旁注均已对照；正文不静默替换",
+      "visual_checked": true
+    },
+    {
+      "page": 17,
+      "topics": [
+        "逍遥是灵魂意识生活；地球人改观"
+      ],
+      "examples": [
+        "黄剑邀讲与梁冬一起逍遥游"
+      ],
+      "covered_by": [
+        "B03",
+        "BJ03"
+      ],
+      "notes": "邀请具体事件原例此前未独立导航，已补BJ03",
+      "visual_checked": true
+    },
+    {
+      "page": 18,
+      "topics": [
+        "练与爱不同；逍遥重词；引入心经"
+      ],
+      "examples": [
+        "十五年铁砂掌与只爱讨论者对掌；佛鼓励舍利子跨彼岸"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p18",
+        "BJ03"
+      ],
+      "notes": "梵文小字及舍利族之子注释均视觉核对",
+      "visual_checked": true
+    },
+    {
+      "page": 19,
+      "topics": [
+        "观自在/观三世；观音音译；迦叶弥勒"
+      ],
+      "examples": [
+        "班机降落比喻；Kanon小明/小光；Maha/Kasyapa/Miroku"
+      ],
+      "covered_by": [
+        "BJ03"
+      ],
+      "notes": "OCR把大误作天、漏拜火教前的有，已补；个人语源说必须明示归属",
+      "visual_checked": true
+    },
+    {
+      "page": 20,
+      "topics": [
+        "彼岸智慧；五阴五蕴；色受想行识链"
+      ],
+      "examples": [
+        "Maha Moggallāna未到境界；物质自我孤立受害"
+      ],
+      "covered_by": [
+        "BJ03"
+      ],
+      "notes": "OCR把箭头读成连字符，但因果顺序保留；BJ03记录箭头",
+      "visual_checked": true
+    },
+    {
+      "page": 21,
+      "topics": [
+        "色空能量；无苦集灭道；共同增幅苦之解释"
+      ],
+      "examples": [
+        "朋友送花生；JT先判被骗再剥坏花生"
+      ],
+      "covered_by": [
+        "B06",
+        "maps/jibengong.md:例子p21–22",
+        "BJ03"
+      ],
+      "notes": "道旁注Dharma遗漏，已补注；叙述是JT姑且推想",
+      "visual_checked": true
+    },
+    {
+      "page": 22,
+      "topics": [
+        "情绪信念实相循环；催眠式选择"
+      ],
+      "examples": [
+        "助教剥好花生；时间不够工作；莹莹派丁助教买物"
+      ],
+      "covered_by": [
+        "B06",
+        "maps/jibengong.md:例子p21–24",
+        "BJ04"
+      ],
+      "notes": "正文和测不准原理小字均已视觉核对，不当量子证据",
+      "visual_checked": true
+    },
+    {
+      "page": 23,
+      "topics": [
+        "不配信念与关系选择；当下即永恒总合；业解除；强受害因果论"
+      ],
+      "examples": [
+        "遭家暴与值得善待；同公司同领导不同心情"
+      ],
+      "covered_by": [
+        "B06",
+        "BJ04"
+      ],
+      "notes": "正面OCR为芷面，补注；Karma/positive旁注在BJ04记录，完整强主张与后段限制并存",
+      "visual_checked": true
+    },
+    {
+      "page": 24,
+      "topics": [
+        "向内清理结构与祈祷；金钱标签；你是神；龙蛇混杂"
+      ],
+      "examples": [
+        "相信无钱可怜/有钱堕落而求宇宙清理"
+      ],
+      "covered_by": [
+        "B06",
+        "BJ04"
+      ],
+      "notes": "金钱具体自问原例此前未索引，已补；看法观念旁注已对照",
+      "visual_checked": true
+    },
+    {
+      "page": 25,
+      "topics": [
+        "龙蛇混杂/死人心活人心/不死不活；槁木死灰与出阳神；丧我神功"
+      ],
+      "examples": [
+        "王嚞王重阳与活死人墓；师父如枯树熄灰徒弟惊问"
+      ],
+      "covered_by": [
+        "BJ05"
+      ],
+      "notes": "旧基本功索引缺这整页境界寓言，补BJ05；姓名与整篇误字已补注",
+      "visual_checked": true
+    },
+    {
+      "page": 26,
+      "topics": [
+        "我应该你应该程式/病毒；灵魂渴望与制约；萎缩"
+      ],
+      "examples": [
+        "想卖面却被大企业主管应该挡住"
+      ],
+      "covered_by": [
+        "B05",
+        "maps/jibengong.md:例子p26",
+        "BJ05"
+      ],
+      "notes": "仔细挑剔/conditioned小字核对；正文论证完整",
+      "visual_checked": true
+    },
+    {
+      "page": 27,
+      "topics": [
+        "快乐极主观；假幸福与薪水枷锁"
+      ],
+      "examples": [
+        "瑩瑩嚎哭昔同学自称幸福；大夜班省力拿钱"
+      ],
+      "covered_by": [
+        "B04",
+        "maps/jibengong.md:例子p27–28"
+      ],
+      "notes": "旧例已覆盖；OCR正文完整",
+      "visual_checked": true
+    },
+    {
+      "page": 28,
+      "topics": [
+        "爱所选每秒温暖；非客观幸福；self与ego区分"
+      ],
+      "examples": [
+        "美男美女/富人/精英未必快；最少劳动的头脑"
+      ],
+      "covered_by": [
+        "B04",
+        "B05"
+      ],
+      "notes": "feeling tone旁注遗漏已补；正文自我术语完整",
+      "visual_checked": true
+    },
+    {
+      "page": 29,
+      "topics": [
+        "十五年尚未拆完；据说出体前世；自诚与真人"
+      ],
+      "examples": [
+        "课堂摇头；还未练到玄境"
+      ],
+      "covered_by": [
+        "B05",
+        "BJ05",
+        "BJ06"
+      ],
+      "notes": "旧核心覆盖，玄境归属与未练成一并保留",
+      "visual_checked": true
+    },
+    {
+      "page": 30,
+      "topics": [
+        "真小人先认识想要；非完满；权威投射"
+      ],
+      "examples": [
+        "徐文兵背内经插队未经核实传闻；病人不可爱是JT偏好"
+      ],
+      "covered_by": [
+        "B04",
+        "maps/jibengong.md:例子p30–31",
+        "BJ06"
+      ],
+      "notes": "正文与未经查证限定完整；不使偏好替代医学义务",
+      "visual_checked": true
+    },
+    {
+      "page": 31,
+      "topics": [
+        "惟我独尊个人解释；认同所爱；多余权威期待；电视便当"
+      ],
+      "examples": [
+        "病人爱内经才让他觉得知己；TVBS蔡康永200便当"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p31–32",
+        "BJ06"
+      ],
+      "notes": "OCR正文完整；佛语解释归属JT",
+      "visual_checked": true
+    },
+    {
+      "page": 32,
+      "topics": [
+        "具体份位；真小人点数；共同心灵与神通自述"
+      ],
+      "examples": [
+        "蔡康永与导播笑；厚朴学堂徐文兵聊天预说当晚事件"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p31–32",
+        "BJ06"
+      ],
+      "notes": "JT误识成J已补；预说意外原例旧索引未列已补BJ06",
+      "visual_checked": true
+    },
+    {
+      "page": 33,
+      "topics": [
+        "真小人可暖；诚实改变交往；关系成本"
+      ],
+      "examples": [
+        "小黄不分卷饼后请看食物；何先生不催被罚；换工作朋友觉悟"
+      ],
+      "covered_by": [
+        "B04",
+        "maps/jibengong.md:例子p33",
+        "BJ07"
+      ],
+      "notes": "旧索引未录看食物后续与关系更换，补BJ07",
+      "visual_checked": true
+    },
+    {
+      "page": 34,
+      "topics": [
+        "结果与方法颠倒；慈悲无为心斋气听；彼岸主导"
+      ],
+      "examples": [
+        "林姊问佛菩萨慈悲"
+      ],
+      "covered_by": [
+        "B07",
+        "BJ08"
+      ],
+      "notes": "OCR正文完整；其宗教词对应保留归属",
+      "visual_checked": true
+    },
+    {
+      "page": 35,
+      "topics": [
+        "慈悲须灵魂基础；未知正确回应；无缘定义；逍遥诗典"
+      ],
+      "examples": [
+        "原谅/责怪不知哪好；饭屎结果比喻；河上公与王重阳选外号"
+      ],
+      "covered_by": [
+        "B07",
+        "maps/jibengong.md:例子p35–36",
+        "BJ08"
+      ],
+      "notes": "旧索引未录诗经清人/河上典故，补BJ08",
+      "visual_checked": true
+    },
+    {
+      "page": 36,
+      "topics": [
+        "同体、天然同理；主客消融；痛苦都没又都懂；菩提萨埵/如来"
+      ],
+      "examples": [
+        "推崖叫飞；JT怕胖嫌笨未慈悲；灵界楼层比喻"
+      ],
+      "covered_by": [
+        "B07",
+        "BJ08"
+      ],
+      "notes": "物我两忘和主客体OCR实质错乱，已逐字补注；粗俗小字不成为行为指令",
+      "visual_checked": true
+    },
+    {
+      "page": 37,
+      "topics": [
+        "无法凭空慈悲；气听自述；修道病与传染式心乱假说"
+      ],
+      "examples": [
+        "慈济四年癌六年心理变态极端断言；小黄同事/48小时症状"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p37–38",
+        "BJ08"
+      ],
+      "notes": "核心旁举旧索引过略，补完整来源及不诊断归属",
+      "visual_checked": true
+    },
+    {
+      "page": 38,
+      "topics": [
+        "本人不知的真慈悲；道亏爱成；为道日损"
+      ],
+      "examples": [
+        "陪朋友诊病被郝万山叫坐下开药，吼不要抽牌"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p37–38",
+        "BJ08"
+      ],
+      "notes": "OCR正文完整；疗效属于转述不可照药",
+      "visual_checked": true
+    },
+    {
+      "page": 39,
+      "topics": [
+        "支离其德；道德遮感知；疲劳接口"
+      ],
+      "examples": [
+        "凶杀暴力字面强说；异常疲倦早归和硬撑失去讯息"
+      ],
+      "covered_by": [
+        "B17",
+        "B15",
+        "maps/jibengong.md:例子p39–40",
+        "BJ09"
+      ],
+      "notes": "确含极端伤害词句，保留来源并不能给行动授权",
+      "visual_checked": true
+    },
+    {
+      "page": 40,
+      "topics": [
+        "潜在意识管气；身体接口；梦转码与梦书写；障壁未知"
+      ],
+      "examples": [
+        "伤心地绝情岭；异次元讯息经梦象征"
+      ],
+      "covered_by": [
+        "B15",
+        "BJ09"
+      ],
+      "notes": "转码器误字和compiler旁注已补，障壁只姑且存在不是确认",
+      "visual_checked": true
+    },
+    {
+      "page": 41,
+      "topics": [
+        "肉身用梦做成；病痛是身体梦/潜在情书；终极疗愈"
+      ],
+      "examples": [
+        "十四年乳癌妇女老公婆婆比住院更苦；柴胡汤桂枝汤穴道对照"
+      ],
+      "covered_by": [
+        "B15",
+        "maps/jibengong.md:例子p41–42",
+        "BJ09"
+      ],
+      "notes": "婆婆OCR漏一字已补；来源强说不等医学因果",
+      "visual_checked": true
+    },
+    {
+      "page": 42,
+      "topics": [
+        "可以逃；没有病没有治疗强说；治病像撕情书；玩家挑战"
+      ],
+      "examples": [
+        "癌离开自述；治病后车撞假设；游戏金币分数"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p41–43",
+        "BJ09"
+      ],
+      "notes": "源文强主张与可能撞死假设有完整入口；非停治疗",
+      "visual_checked": true
+    },
+    {
+      "page": 43,
+      "topics": [
+        "稳人生与玩家下线；感受基调性命；刻意篇导引"
+      ],
+      "examples": [
+        "恶灵古堡/寂静岭对开心农场；可爱疗愈游戏例外"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p43",
+        "BJ09",
+        "BJ10"
+      ],
+      "notes": "明确存在疗愈游戏例外；自杀横死说仅归属于JT，游戏具名補",
+      "visual_checked": true
+    },
+    {
+      "page": 44,
+      "topics": [
+        "身体养法不全对错；内功missing link；高科技/外星猜测"
+      ],
+      "examples": [
+        "魏华存黄庭、魏伯阳参同契；北京白云观修真图内经图；马王堆"
+      ],
+      "covered_by": [
+        "BJ10"
+      ],
+      "notes": "旧索引具名来源和断链问题缺入口，补BJ10",
+      "visual_checked": true
+    },
+    {
+      "page": 45,
+      "topics": [
+        "黄庭与太平断链；河车；三关任督；缘督以为经"
+      ],
+      "examples": [
+        "尾闾夹脊玉枕；铅汞姹女黄芽术语"
+      ],
+      "covered_by": [
+        "BJ10"
+      ],
+      "notes": "断链OCR为断钟已补；通督不通任源说明与未知来源完整保留",
+      "visual_checked": true
+    },
+    {
+      "page": 46,
+      "topics": [
+        "十五年拆应该；直觉；经络自述；内功附赠"
+      ],
+      "examples": [
+        "机发于踵脚跟嗡响；胆经挫败反省/艾灸沿经络流感；少阳塞感"
+      ],
+      "covered_by": [
+        "BJ10"
+      ],
+      "notes": "旧索引自述过泛，具名情志、体感例已补；不作医疗做法",
+      "visual_checked": true
+    },
+    {
+      "page": 47,
+      "topics": [
+        "病气自述；固置/流动身体；身体场域；功力未称"
+      ],
+      "examples": [
+        "耳痛流液后松；正義の味方恶魔姐姐闹剧"
+      ],
+      "covered_by": [
+        "BJ10"
+      ],
+      "notes": "剧名严重错识已补；源人物自嘲只是感到并非功力",
+      "visual_checked": true
+    },
+    {
+      "page": 48,
+      "topics": [
+        "恭敬不如从命；天公疼小人；不烦自述"
+      ],
+      "examples": [
+        "口称尊重不听话像耍人；累不上班；周复盘无低潮"
+      ],
+      "covered_by": [
+        "B04",
+        "BJ10"
+      ],
+      "notes": "耍我OCR为要我已补；疗效/不上班不能一概照搬",
+      "visual_checked": true
+    },
+    {
+      "page": 49,
+      "topics": [
+        "幸福愿景非吃喝打混；游字在逍遥后；跨次元玩"
+      ],
+      "examples": [
+        "90分钟介绍后转第二堂练法"
+      ],
+      "covered_by": [
+        "B03",
+        "B07",
+        "BJ11"
+      ],
+      "notes": "OCR正文完整，标题每下愈况始于下一页",
+      "visual_checked": true
+    },
+    {
+      "page": 50,
+      "topics": [
+        "挫败被世界薄待；不逼感谢；真小人价值"
+      ],
+      "examples": [
+        "家暴妇女谢谢打我；恶人过好令人嫉妒"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:限定p50",
+        "BJ11"
+      ],
+      "notes": "直接反对逼受害人感恩，须与23页强召唤说并列",
+      "visual_checked": true
+    },
+    {
+      "page": 51,
+      "topics": [
+        "教中医自爽有赚；幸福自然感谢"
+      ],
+      "examples": [
+        "志玲姐姐作为医书爱好幽默；公道正义反转"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p51–52",
+        "BJ11"
+      ],
+      "notes": "原强性化修辞完整文本保留，用思想释义而不模仿侵害",
+      "visual_checked": true
+    },
+    {
+      "page": 52,
+      "topics": [
+        "教庄子快乐；发善念病2010自述；拆信念漫长重建"
+      ],
+      "examples": [
+        "周杰伦下午茶歌迷；冤大头衣食父母学生旁注；15年头脑放松"
+      ],
+      "covered_by": [
+        "B05",
+        "B07",
+        "maps/jibengong.md:例子p51–52",
+        "BJ11"
+      ],
+      "notes": "具名旁注与2010反证旧例未录，补BJ11",
+      "visual_checked": true
+    },
+    {
+      "page": 53,
+      "topics": [
+        "唯一小顿悟；外貌美容执念垮；机缘"
+      ],
+      "examples": [
+        "倪海厦2005/2006针灸班金城武；便利店女员工蜀道难喘息"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p53–54"
+      ],
+      "notes": "金城武旧补注再次扫描核对；倪海廈姓名按原OCR保存、不强制简繁转换；金城同学日本称呼与注音已看",
+      "visual_checked": true
+    },
+    {
+      "page": 54,
+      "topics": [
+        "看开之前识破一万；心力能应付才不烦；防压抑"
+      ],
+      "examples": [
+        "金城小顿悟对照立即不要烦"
+      ],
+      "covered_by": [
+        "B07",
+        "maps/jibengong.md:例子p53–54"
+      ],
+      "notes": "OCR正文完整，与JT偶发顿悟非统一练法的限定完整",
+      "visual_checked": true
+    },
+    {
+      "page": 55,
+      "topics": [
+        "不认事实信念造成情绪；虚舟三层"
+      ],
+      "examples": [
+        "空船/有划手/骂不回应；漂亮司机；撞玻璃踢家具"
+      ],
+      "covered_by": [
+        "B08",
+        "maps/jibengong.md:例子p55–56"
+      ],
+      "notes": "旧例覆盖充分；痛刺激和怒层次不能混",
+      "visual_checked": true
+    },
+    {
+      "page": 56,
+      "topics": [
+        "幼年哭获照顾；无意识勒索；失效控制再挫败"
+      ],
+      "examples": [
+        "幼儿无成人不哭；丈夫孩子怒骂无效；中年要不到"
+      ],
+      "covered_by": [
+        "B08",
+        "maps/jibengong.md:例子p56–57"
+      ],
+      "notes": "旧例覆盖充分；原心理解释是来源假说而非所有哭怒动机",
+      "visual_checked": true
+    },
+    {
+      "page": 57,
+      "topics": [
+        "怒与挫败伤；假设太好；确认影响范围"
+      ],
+      "examples": [
+        "孩子50/75；近者期待与早知大烂人"
+      ],
+      "covered_by": [
+        "B08",
+        "B09",
+        "maps/jibengong.md:例子p57"
+      ],
+      "notes": "对方旁注包括人事物已核；不是由单次成绩锁死能力",
+      "visual_checked": true
+    },
+    {
+      "page": 58,
+      "topics": [
+        "先确认能否影响；承认事实优于相信应该；感知力使心静"
+      ],
+      "examples": [
+        "到死无挫败含笑归天；成功有钱仍不幸福"
+      ],
+      "covered_by": [
+        "B09"
+      ],
+      "notes": "OCR正文完整；影响未知不可助手先宣判",
+      "visual_checked": true
+    },
+    {
+      "page": 59,
+      "topics": [
+        "无情结果；正见与正定；宗教宇宙地图批评"
+      ],
+      "examples": [
+        "小方问佛徒不听；达摩九年/一花五叶"
+      ],
+      "covered_by": [
+        "B09",
+        "BJ12"
+      ],
+      "notes": "旧索引正定出体/五分身缺具名入口，补BJ12",
+      "visual_checked": true
+    },
+    {
+      "page": 60,
+      "topics": [
+        "无明不与没有战；增心力；正见入正定；日常不玄化"
+      ],
+      "examples": [
+        "点亮灯驱暗；踹账单不赚钱；彼岸提醒我执"
+      ],
+      "covered_by": [
+        "B09",
+        "BJ12"
+      ],
+      "notes": "“哎呀又讲错话了”旁注为来源自嘲已对照，不把绝对宗教批评当事实",
+      "visual_checked": true
+    },
+    {
+      "page": 61,
+      "topics": [
+        "求高玄反轻基础；狂热教会与实相；凶残无能神像"
+      ],
+      "examples": [
+        "基督教学生问虔诚服务者多灾；拼命传教惹反感"
+      ],
+      "covered_by": [
+        "BJ13"
+      ],
+      "notes": "旧索引笼统宗教概述，补原案例和机制",
+      "visual_checked": true
+    },
+    {
+      "page": 62,
+      "topics": [
+        "旧约神话读法；伊甸园象征；智能生命两树"
+      ],
+      "examples": [
+        "达文西密码解码比喻；亚当夏娃被逐；左脑逻辑"
+      ],
+      "covered_by": [
+        "BJ13"
+      ],
+      "notes": "源宗教立场个人解释，脑区说非神经科学定论",
+      "visual_checked": true
+    },
+    {
+      "page": 63,
+      "topics": [
+        "本能智能潜能；蛇成长与走火；赤蛇归身泥丸；罪恶感隔神；原罪"
+      ],
+      "examples": [
+        "失乐园大天使堕天；分岔舌蛇旁注；摇尾小狗"
+      ],
+      "covered_by": [
+        "B16",
+        "BJ13"
+      ],
+      "notes": "堕天错识盐天已补；十中七八走火仅JT说法；旁注潜在意识之心已核",
+      "visual_checked": true
+    },
+    {
+      "page": 64,
+      "topics": [
+        "人工罪恶感对天然同理；种田孝道；吃饭自然感对观念强控；羞恨链"
+      ],
+      "examples": [
+        "小狗怕痛；种田不能多钱孝；胆固醇夜宵强吃；该隐杀亚伯"
+      ],
+      "covered_by": [
+        "B16",
+        "maps/jibengong.md:例子p64",
+        "BJ13"
+      ],
+      "notes": "正确OCR是确已补；该隐亚伯及心理变态小字进入BJ13",
+      "visual_checked": true
+    },
+    {
+      "page": 65,
+      "topics": [
+        "羞极反恨/不共戴天/无意识毁事；原罪非性行为/七大罪"
+      ],
+      "examples": [
+        "自责同归于尽；亚当夏娃本已有性；好吃懒做Gluttony/Sloth"
+      ],
+      "covered_by": [
+        "B16",
+        "BJ13"
+      ],
+      "notes": "好吃懒做OCR首字错，已补；神话释义与行为不能互相当事实",
+      "visual_checked": true
+    },
+    {
+      "page": 66,
+      "topics": [
+        "造果不围栏坑陷；权威恐惧；正面口号代偿"
+      ],
+      "examples": [
+        "矮冬瓜反复我会长高；真正朋友互亏；心虚神光爱"
+      ],
+      "covered_by": [
+        "BJ13"
+      ],
+      "notes": "F u c k me up/Absence of Malice旁注与台语字词作用已核，不照辱用户",
+      "visual_checked": true
+    },
+    {
+      "page": 67,
+      "topics": [
+        "恐惧讨好重启邪神投影；祈祷低效假说；小方权威less"
+      ],
+      "examples": [
+        "绑子罪犯/典狱长求牛排；小方不判人只认人生目标不同"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p67–68",
+        "BJ13"
+      ],
+      "notes": "旧例小方主体充分，补完整狱长比喻和非审判机制",
+      "visual_checked": true
+    },
+    {
+      "page": 68,
+      "topics": [
+        "询问拒绝与天然同理；宇宙如小我延伸；凡求得着"
+      ],
+      "examples": [
+        "圣斗士星矢燃烧小宇宙；哆啦A梦；少阴喉痛祈祷；两百/十中七八对比"
+      ],
+      "covered_by": [
+        "maps/jibengong.md:例子p67–68",
+        "BJ13"
+      ],
+      "notes": "所以/祈祷OCR错且旁注插句已补；上帝挑食该隐菜肉为来源旁注并列保存",
+      "visual_checked": true
+    },
+    {
+      "page": 69,
+      "topics": [
+        "耶稣洗罪回同理；不存在债垃圾；真小人交情；遁天倍情"
+      ],
+      "examples": [
+        "受洗/妓女好人被钉死；六祖话类比"
+      ],
+      "covered_by": [
+        "B16",
+        "BJ13",
+        "BJ14"
+      ],
+      "notes": "爱邻居与交情旁注已看；宗教史说归属于JT",
+      "visual_checked": true
+    },
+    {
+      "page": 70,
+      "topics": [
+        "情绪天谴；不认事实增幅；误会谣言与亲密期待"
+      ],
+      "examples": [
+        "说谎挑拨引十倍恨；不爱却温柔伪相"
+      ],
+      "covered_by": [
+        "B09",
+        "maps/jibengong.md:例子p70–71",
+        "BJ14"
+      ],
+      "notes": "十倍为JT说法，非靠情绪诊断误会/伴侣心",
+      "visual_checked": true
+    },
+    {
+      "page": 71,
+      "topics": [
+        "遁天倍情解法庖丁；刀顺缝与无厚有间"
+      ],
+      "examples": [
+        "丈夫不爱太太而外表好；刀卡/游刃有余"
+      ],
+      "covered_by": [
+        "B10",
+        "maps/jibengong.md:例子p71–72",
+        "BJ14"
+      ],
+      "notes": "OCR正文完整，寓言逐层译读已有入口",
+      "visual_checked": true
+    },
+    {
+      "page": 72,
+      "topics": [
+        "中肯刀为心；高估低估；份位选择权非要求；十九年新刃"
+      ],
+      "examples": [
+        "称职放手/不称职不给老公份位；白担心救火"
+      ],
+      "covered_by": [
+        "B09",
+        "B10",
+        "maps/jibengong.md:例子p71–72"
+      ],
+      "notes": "旧卡充分，无需重造卡；准确条件以确认事实为前提",
+      "visual_checked": true
+    },
+    {
+      "page": 73,
+      "topics": [
+        "我搞错了具体误判；单恋伤心原例"
+      ],
+      "examples": [
+        "同事单恋一两年被拒哭两场；请念对不起我搞错了"
+      ],
+      "covered_by": [
+        "B10",
+        "maps/jibengong.md:例子p73"
+      ],
+      "notes": "旧例充分，允许真实悲伤，非所有伤心有罪",
+      "visual_checked": true
+    },
+    {
+      "page": 74,
+      "topics": [
+        "助教误会导致辜负投射；同学仍友；爱正确难认错"
+      ],
+      "examples": [
+        "小胡还不错不置可否；日文助教没空听/期末请假"
+      ],
+      "covered_by": [
+        "B10",
+        "maps/jibengong.md:例子p73–75"
+      ],
+      "notes": "明确小胡并没确认受托；没时间学习的现实补读充分",
+      "visual_checked": true
+    },
+    {
+      "page": 75,
+      "topics": [
+        "日常都能验遁天；不需境界；ego偏爱增自己"
+      ],
+      "examples": [
+        "佛从出生说法即时改口三十六才开悟"
+      ],
+      "covered_by": [
+        "B11",
+        "BJ14"
+      ],
+      "notes": "数字及宗教史属于源口述；自改口已登记",
+      "visual_checked": true
+    },
+    {
+      "page": 76,
+      "topics": [
+        "情绪即神互动；内心神；故意无知俗谚"
+      ],
+      "examples": [
+        "指胸口非举头三尺；放逐上帝宇宙顶端"
+      ],
+      "covered_by": [
+        "BJ14"
+      ],
+      "notes": "旧地图内在宗教属综合，这里补具体位置意涵，非外媒才与神对话",
+      "visual_checked": true
+    },
+    {
+      "page": 77,
+      "topics": [
+        "每下愈况；况真相；道屎尿"
+      ],
+      "examples": [
+        "泥蚁马桶便尿；踩豨腿不摸肥肚；敲西瓜"
+      ],
+      "covered_by": [
+        "B11",
+        "maps/jibengong.md:例子p77"
+      ],
+      "notes": "既有完整寓言入口；是JT象征释义非训诂共识",
+      "visual_checked": true
+    },
+    {
+      "page": 78,
+      "topics": [
+        "家常低处功夫；真小人且尊重他人；暂停话术；止观"
+      ],
+      "examples": [
+        "不能再谈已生气/回家厘清免殃及无辜"
+      ],
+      "covered_by": [
+        "B11",
+        "B13",
+        "maps/jibengong.md:例子p78",
+        "BJ14"
+      ],
+      "notes": "旧暂停例完整；止观在成形前辨信念，非压抑",
+      "visual_checked": true
+    },
+    {
+      "page": 79,
+      "topics": [
+        "潜在意识反省表面；基础入正定"
+      ],
+      "examples": [],
+      "covered_by": [
+        "BJ12",
+        "BJ14"
+      ],
+      "notes": "短页确完整两行，印刷88；非空页漏读",
+      "visual_checked": true
+    },
+    {
+      "page": 80,
+      "topics": [
+        "辩者有不见；求人站边；我执定义自改"
+      ],
+      "examples": [
+        "不是我执导致不认事实而定义等号"
+      ],
+      "covered_by": [
+        "B05",
+        "B13",
+        "maps/jibengong.md:限定p80"
+      ],
+      "notes": "原扫描与OCR完整，核心自改已有索引",
+      "visual_checked": true
+    },
+    {
+      "page": 81,
+      "topics": [
+        "感受为信念消化现象；情绪求爱与受害正义批评"
+      ],
+      "examples": [
+        "禁食电车偷饼干同情/犯法；情绪排泄比喻"
+      ],
+      "covered_by": [
+        "BJ15"
+      ],
+      "notes": "电车饼干未列旧例，补BJ15；地域刻板语只作源批评",
+      "visual_checked": true
+    },
+    {
+      "page": 82,
+      "topics": [
+        "喪我卸重装；念波互补无赢家"
+      ],
+      "examples": [
+        "请小黄换理解；念头交友结婚"
+      ],
+      "covered_by": [
+        "B12",
+        "maps/jibengong.md:例子p82",
+        "BJ16"
+      ],
+      "notes": "旧例充分；失去情绪并不自动验证外事实",
+      "visual_checked": true
+    },
+    {
+      "page": 83,
+      "topics": [
+        "教学生四信念罪怕/已尽份位/不爱/互狠"
+      ],
+      "examples": [
+        "付费学生、十九层地狱、放弃与痛骂纠缠"
+      ],
+      "covered_by": [
+        "B12",
+        "maps/jibengong.md:例子p83–85",
+        "BJ16"
+      ],
+      "notes": "旧例完整机制，BJ16补互咬能量、学理比喻",
+      "visual_checked": true
+    },
+    {
+      "page": 84,
+      "topics": [
+        "相反对偶念波互消；诚实使各自选择；粗低频升频"
+      ],
+      "examples": [
+        "两毒蛇互咬一两小时；学生退班/生病的因果解释"
+      ],
+      "covered_by": [
+        "B12",
+        "maps/jibengong.md:例子p83–85",
+        "BJ16"
+      ],
+      "notes": "源外部因果归属，不能拿退班病作为证明；neutralize小字已核",
+      "visual_checked": true
+    },
+    {
+      "page": 85,
+      "topics": [
+        "环中道枢冲虚冲和；选是非自我或无情本能；全真派人中"
+      ],
+      "examples": [
+        "黑格尔唯物辩证广告/庄子最早说；两仪太极/物反物质；搭鹊桥"
+      ],
+      "covered_by": [
+        "B12",
+        "BJ16",
+        "BJ17"
+      ],
+      "notes": "舌抵上牙龈搭鹊桥与任督接点OCR关键错乱已补",
+      "visual_checked": true
+    },
+    {
+      "page": 86,
+      "topics": [
+        "美学相反调和；内功第二代缺程序；心法前置；伍柳三花"
+      ],
+      "examples": [
+        "齐白石吴昌硕八大山人；大成若缺；大手印拙火房中；伍冲虚柳华阳赵避尘"
+      ],
+      "covered_by": [
+        "BJ16",
+        "BJ17"
+      ],
+      "notes": "副交感/三花聚顶/伍柳仙宗/人名OCR错，已扫描逐一補",
+      "visual_checked": true
+    },
+    {
+      "page": 87,
+      "topics": [
+        "第一花小周天卯酉；体质各异勿助；人中练法自述"
+      ],
+      "examples": [
+        "八个月建丹田；电话可接/不怕吵；睡眠半小时抵一小时自述"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "主文下田丹为原刊用字不静默更正；卯酉OCR西已补；旁注不驼背/不挺胸翘臀等核读",
+      "visual_checked": true
+    },
+    {
+      "page": 88,
+      "topics": [
+        "愿景急动念成执念气；勿忘勿助；聚/积气开关；三关"
+      ],
+      "examples": [
+        "十中七坏准备期声称；病癌/骨髓伤说；阳密乃固"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "十个人OCR重复十已补；若有无旁注与纯阴无阳之象已核，不当癌症因果",
+      "visual_checked": true
+    },
+    {
+      "page": 89,
+      "topics": [
+        "强冲三关/勿助",
+        "精润与气燥",
+        "第二花炼气化神"
+      ],
+      "examples": [
+        "电阻/电压",
+        "太极拳经不在气",
+        "倒撵猴、药物与电脑耗损自述"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "医学/神经因果仅保留来源归属；炼气化神为旁注",
+      "visual_checked": true
+    },
+    {
+      "page": 90,
+      "topics": [
+        "元气潜在意识",
+        "气听交接主权",
+        "以艺进道",
+        "小丹/小药"
+      ],
+      "examples": [
+        "国共政权交接谈判",
+        "香港厨师打打停停",
+        "百遍周天后爆散"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "小丹关键OCR错误已视觉核对；气听需与课程728–729、733–734修正并读",
+      "visual_checked": true
+    },
+    {
+      "page": 91,
+      "topics": [
+        "大周天/中丹田/冲脉",
+        "有为无为",
+        "信息气球模型"
+      ],
+      "examples": [
+        "十斤酒肉后七八天不吃与每日素食对比",
+        "脑中搅动信息"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "被动周天OCR误问天已补；左右脑比喻不作神经科学或饮食建议",
+      "visual_checked": true
+    },
+    {
+      "page": 92,
+      "topics": [
+        "气听身体而通彼岸",
+        "丧我松ego",
+        "文人拳与符码"
+      ],
+      "examples": [
+        "左右脸不对称入魔强说",
+        "诗人/太极拳文人解读"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "trance旁注已读；入魔/脸形不能作诊断",
+      "visual_checked": true
+    },
+    {
+      "page": 93,
+      "topics": [
+        "大药信息与我执魔考",
+        "基本功前置",
+        "本人修学后悔再改口"
+      ],
+      "examples": [
+        "守炉童子幻境亲情喊出声毁炉",
+        "千阵魔考",
+        "精神分裂说"
+      ],
+      "covered_by": [
+        "BJ17"
+      ],
+      "notes": "原守炉童子已在旧例，补信息结构与本人改口；医学断言不背书",
+      "visual_checked": true
+    },
+    {
+      "page": 94,
+      "topics": [
+        "情绪前止观",
+        "检验信念",
+        "我执黏结",
+        "入门好人价值难移"
+      ],
+      "examples": [
+        "初需三五天到两周、熟后三五秒",
+        "好人观念一大坨"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "所述时间为课堂经验估计非用户达标时限",
+      "visual_checked": true
+    },
+    {
+      "page": 95,
+      "topics": [
+        "正见需操作",
+        "掰开信念黏力",
+        "对学佛者批评自限"
+      ],
+      "examples": [
+        "正见非瞪人/搜尽CIA预算",
+        "承认他人或许不知如何练"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "新增对学佛者可能知道正见却不知操作的解释，未说“我搞错了”，不扩大成本人认错原话",
+      "visual_checked": true
+    },
+    {
+      "page": 96,
+      "topics": [
+        "我执念波辨认",
+        "辩论欲说服认同",
+        "是非挡感知"
+      ],
+      "examples": [
+        "想说服对方相信我/站我边",
+        "亚当夏娃五衰"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "旧B13已覆盖核心，补好辩与不见的结构",
+      "visual_checked": true
+    },
+    {
+      "page": 97,
+      "topics": [
+        "念波是活生命能",
+        "真实念波坦然",
+        "不实念波怕被消灭"
+      ],
+      "examples": [
+        "卷饼午饭与空腹被说谎对比"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "原例已见旧B13，补生命能/存在结构",
+      "visual_checked": true
+    },
+    {
+      "page": 98,
+      "topics": [
+        "存在危机",
+        "同类念波结群成观念ego",
+        "真伪与丧我去执"
+      ],
+      "examples": [
+        "本来无一物",
+        "attachment"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "存在危机上方existential crisis、我上方ego；OCR错我已补",
+      "visual_checked": true
+    },
+    {
+      "page": 99,
+      "topics": [
+        "不是外物舍不得即我执",
+        "教条可能自身含我执",
+        "传教霸气"
+      ],
+      "examples": [
+        "捐钱/克性欲/压愤恨不能替代看不实念波",
+        "传教跨宗教比较"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "JT宗教史/逆佛说保归属，和95自限并读",
+      "visual_checked": true
+    },
+    {
+      "page": 100,
+      "topics": [
+        "烦恼作标签",
+        "压抑撕标签",
+        "无相天魔/隐形我执",
+        "伪空"
+      ],
+      "examples": [
+        "学生爸妈吼百年后皆死",
+        "天魔制造厂断言"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "旁注/正文分离；怪味道OCR补，群体贬损不据此给用户贴签",
+      "visual_checked": true
+    },
+    {
+      "page": 101,
+      "topics": [
+        "波旬童话象征",
+        "人工罪感消同理",
+        "佛庄子哭",
+        "正见"
+      ],
+      "examples": [
+        "魔子魔孙穿袈裟破法童话",
+        "自以为一心向善"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "Papiyas、Mara、Laajang、六天魔王小字已核；偽空关键OCR补",
+      "visual_checked": true
+    },
+    {
+      "page": 102,
+      "topics": [
+        "正见操作即辩起停行为",
+        "齐物漁父对应",
+        "本人也犯"
+      ],
+      "examples": [
+        "昨日坐何先生车忍不住奉劝后想回收道歉"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "不是要求全知，保自述没练好；两篇字数为JT说法",
+      "visual_checked": true
+    },
+    {
+      "page": 103,
+      "topics": [
+        "正确感非安心",
+        "辩冲动扩张我执",
+        "正义屠杀反例"
+      ],
+      "examples": [
+        "强烈性侵冲动比较",
+        "希特勒/南京大屠杀与日军自认正确"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "辱骂/性暴力比喻不对用户复刻；反犹叙述为偏见归属不背书",
+      "visual_checked": true
+    },
+    {
+      "page": 104,
+      "topics": [
+        "支离人生道德观",
+        "停辩最初最后决战",
+        "被冤最易败"
+      ],
+      "examples": [
+        "慈悲换厚道仍我执",
+        "本人十五年败在冤枉"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "续105核读，不截成受害者无权澄清",
+      "visual_checked": true
+    },
+    {
+      "page": 105,
+      "topics": [
+        "被冤也辩冲动",
+        "承认另一事实形成环中"
+      ],
+      "examples": [
+        "这个人留不得/放生/宇宙礼物"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "例已B14；下一页明确候选与自我反转",
+      "visual_checked": true
+    },
+    {
+      "page": 106,
+      "topics": [
+        "多种答案",
+        "可能自己是逆缘",
+        "身体检验候选事实"
+      ],
+      "examples": [
+        "对方听不进",
+        "不必别人垃圾",
+        "本人对他存在价值低"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "核心限制原B14准确，补详细自述因果",
+      "visual_checked": true
+    },
+    {
+      "page": 107,
+      "topics": [
+        "气听智能与本潜联盟",
+        "全真念波清净愿景"
+      ],
+      "examples": [
+        "开心也如生病身感",
+        "13–75天开悟江湖传说"
+      ],
+      "covered_by": [
+        "BJ18"
+      ],
+      "notes": "保留愿景完整与江湖传说归属，不作达标期限",
+      "visual_checked": true
+    },
+    {
+      "page": 108,
+      "topics": [
+        "全真向内全见向外",
+        "每下愈况",
+        "发善念双刃",
+        "攖宁"
+      ],
+      "examples": [
+        "全见版HD/马赛克性幽默",
+        "九阳前置乾坤大挪移"
+      ],
+      "covered_by": [
+        "BJ19"
+      ],
+      "notes": "止观/恶念/攖宁OCR误字已视觉补；频率590旁注非量表",
+      "visual_checked": true
+    },
+    {
+      "page": 109,
+      "topics": [
+        "不退转",
+        "黑暗面渴望",
+        "入门能硬做两法"
+      ],
+      "examples": [
+        "运动员灵魂当律师被知足压痛",
+        "止辩/成功幸福影响范围"
+      ],
+      "covered_by": [
+        "BJ19"
+      ],
+      "notes": "不退转OCR补；频率超600旁注非实测；与110完整连读",
+      "visual_checked": true
+    },
+    {
+      "page": 110,
+      "topics": [
+        "人工罪感vs天然同理",
+        "反省自责",
+        "因果创作者尊严"
+      ],
+      "examples": [
+        "冤枉人自己气伤后同情不再犯",
+        "失乐园自以为非"
+      ],
+      "covered_by": [
+        "BJ19"
+      ],
+      "notes": "是非心OCR错成翨罪恐已补；强创造实相保归属",
+      "visual_checked": true
+    },
+    {
+      "page": 111,
+      "topics": [
+        "罪恶感抹性命",
+        "知道不知道",
+        "善恶未知强举例"
+      ],
+      "examples": [
+        "肥肉/不听妈妈",
+        "耶稣妓女弟子",
+        "杀手无辜路人例"
+      ],
+      "covered_by": [
+        "BJ19"
+      ],
+      "notes": "宗教个人解释；杀手例非授权侵害，饮食不替治疗",
+      "visual_checked": true
+    },
+    {
+      "page": 112,
+      "topics": [
+        "严自律师徒难教",
+        "信念新陈代谢",
+        "罪恶感不全我执"
+      ],
+      "examples": [
+        "行走大肠癌/病毒红斑狼疮强医学说",
+        "欺瞒伤人后良心发现"
+      ],
+      "covered_by": [
+        "BJ19"
+      ],
+      "notes": "保未证实医学因果出处；自然懊悔限定须连113",
+      "visual_checked": true
+    },
+    {
+      "page": 113,
+      "topics": [
+        "天然罪感健康",
+        "支离中阶",
+        "真实偏好与不伤生活条件"
+      ],
+      "examples": [
+        "少看父母/更有钱父母不给钱等我更有钱"
+      ],
+      "covered_by": [
+        "BJ20"
+      ],
+      "notes": "严格保果真喜欢且父母更有钱/不伤生活的原条件",
+      "visual_checked": true
+    },
+    {
+      "page": 114,
+      "topics": [
+        "空船情绪得物茁长",
+        "放下面子",
+        "可教时机"
+      ],
+      "examples": [
+        "两三月责骂后诉苦",
+        "密锅我执煎煮",
+        "人体自燃喻"
+      ],
+      "covered_by": [
+        "BJ20"
+      ],
+      "notes": "转化时程为JT经验模型非保证；不是制造灾害逼醒",
+      "visual_checked": true
+    },
+    {
+      "page": 115,
+      "topics": [
+        "大孝父母自己国王",
+        "极端纠缠非家家",
+        "北不见冥山"
+      ],
+      "examples": [
+        "浓硫酸不多喝比喻",
+        "笑容增多、欣慰自己找乐子"
+      ],
+      "covered_by": [
+        "BJ20"
+      ],
+      "notes": "旧B18准确；补可教时机及明确台湾也非家家",
+      "visual_checked": true
+    },
+    {
+      "page": 116,
+      "topics": [
+        "孝超敬爱",
+        "人工罪感拆后同理",
+        "宗教刀剑条文解释"
+      ],
+      "examples": [
+        "北京一二六环王府井麻花",
+        "圣经儿子反父亲等"
+      ],
+      "covered_by": [
+        "BJ20"
+      ],
+      "notes": "条文作为JT个人译读；不是鼓励敌意或取消照护",
+      "visual_checked": true
+    },
+    {
+      "page": 117,
+      "topics": [
+        "全真至开悟三阶段",
+        "阴神碎片梦记忆"
+      ],
+      "examples": [
+        "潜意识关表面出门吃饭",
+        "永动机空想科学旁注"
+      ],
+      "covered_by": [
+        "BJ21"
+      ],
+      "notes": "JT还承认鄙陋不知道别家，不宣唯一权威事实",
+      "visual_checked": true
+    },
+    {
+      "page": 118,
+      "topics": [
+        "阳神双层出体",
+        "结果非练法",
+        "吃睡先后相反"
+      ],
+      "examples": [
+        "快出阴神食量大/刚出特能睡",
+        "断食疗效断言"
+      ],
+      "covered_by": [
+        "BJ21"
+      ],
+      "notes": "修法清念不硬辟谷不眠；断食说保归属",
+      "visual_checked": true
+    },
+    {
+      "page": 119,
+      "topics": [
+        "还虚开悟",
+        "内功非必要App",
+        "仙人壳产品差异"
+      ],
+      "examples": [
+        "破障壁/前世语言/永恒当下",
+        "劈空掌跳房顶"
+      ],
+      "covered_by": [
+        "BJ21"
+      ],
+      "notes": "还虚/仙人壳/取径OCR已视觉补；不当能力保证",
+      "visual_checked": true
+    },
+    {
+      "page": 120,
+      "topics": [
+        "所有心法前置/对应",
+        "明镜止水",
+        "可爱法保始无情天养"
+      ],
+      "examples": [
+        "前文明资料硬盘",
+        "佛禅耶稣/内功瑜伽外挂关系"
+      ],
+      "covered_by": [
+        "BJ22"
+      ],
+      "notes": "止水旧校注已重核；保身体外挂来源及其非必要性",
+      "visual_checked": true
+    },
+    {
+      "page": 121,
+      "topics": [
+        "道家资料匣",
+        "无传教守护",
+        "本人也说教自嘲"
+      ],
+      "examples": [
+        "苏菲/玫瑰十字/澳洲真人部族",
+        "老师技犯"
+      ],
+      "covered_by": [
+        "BJ23"
+      ],
+      "notes": "保原文明比较为JT推想非历史确认",
+      "visual_checked": true
+    },
+    {
+      "page": 122,
+      "topics": [
+        "拆信念程序/应该",
+        "琴心三叠",
+        "彼岸主导一点慈悲"
+      ],
+      "examples": [
+        "运动不必更多/社会精英非幸福/不必忍耐"
+      ],
+      "covered_by": [
+        "BJ23"
+      ],
+      "notes": "旁注定義極近似三花聚頂已核",
+      "visual_checked": true
+    },
+    {
+      "page": 123,
+      "topics": [
+        "借假修真",
+        "集虚清執取纯能",
+        "天地人炼金除错"
+      ],
+      "examples": [
+        "地球虚拟舞台",
+        "虚室生白",
+        "天使先仙后魔"
+      ],
+      "covered_by": [
+        "BJ23"
+      ],
+      "notes": "void/debug/止水玄牝小字已核；世界观完整保留",
+      "visual_checked": true
+    },
+    {
+      "page": 124,
+      "topics": [
+        "本人未练成",
+        "潜意识渗漏默契"
+      ],
+      "examples": [
+        "伦教糕",
+        "染金毛小亮",
+        "牛排积点卡两章带出门"
+      ],
+      "covered_by": [
+        "BJ24"
+      ],
+      "notes": "例旧B20大部留；补卡与下页完整故事",
+      "visual_checked": true
+    },
+    {
+      "page": 125,
+      "topics": [
+        "巧合说明信息",
+        "全于酒/天",
+        "仍怕自述"
+      ],
+      "examples": [
+        "印修道病八点加两点",
+        "醉坠车",
+        "被吓大"
+      ],
+      "covered_by": [
+        "BJ24"
+      ],
+      "notes": "只来源自述，醉坠车非物理安全保证",
+      "visual_checked": true
+    },
+    {
+      "page": 126,
+      "topics": [
+        "恐惧两端/浮木",
+        "内在主导减钻营",
+        "缘份"
+      ],
+      "examples": [
+        "美丑高低深浅喜欢钱多钱少皆怕",
+        "宇宙网"
+      ],
+      "covered_by": [
+        "BJ24"
+      ],
+      "notes": "保全对照具体，不命令放弃现实谋职",
+      "visual_checked": true
+    },
+    {
+      "page": 127,
+      "topics": [
+        "上帝饭与社会饭",
+        "普通小奇迹",
+        "正见基本功",
+        "齐物提问"
+      ],
+      "examples": [
+        "积点卡等级奇迹",
+        "徐文兵郝万山回扣"
+      ],
+      "covered_by": [
+        "BJ24"
+      ],
+      "notes": "主旨非神通自证，普通人生身为来源主张",
+      "visual_checked": true
+    },
+    {
+      "page": 128,
+      "topics": [
+        "齐物论两种断法都可",
+        "观念平等清理"
+      ],
+      "examples": [
+        "齐物论/齐物论两断字",
+        "孰高孰低"
+      ],
+      "covered_by": [
+        "BJ24"
+      ],
+      "notes": "末页正文/页码齐全，孰字OCR误已補",
+      "visual_checked": true
+    }
+  ],
+  "complete": true,
+  "range": [
+    1,
+    128
+  ],
+  "pages_read": 128
+}

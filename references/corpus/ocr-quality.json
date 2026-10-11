@@ -1,0 +1,976 @@
+{
+  "source": "jibengong",
+  "warning": "机器信心分数不能证明文字准确；须视觉核对精确引文。",
+  "pages": [
+    {
+      "page": 1,
+      "characters": 31,
+      "line_count": 4,
+      "low_confidence_lines": [
+        {
+          "text": "內篇",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 2,
+      "characters": 434,
+      "line_count": 20,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 3,
+      "characters": 568,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 4,
+      "characters": 573,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 5,
+      "characters": 627,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 6,
+      "characters": 583,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 7,
+      "characters": 650,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 8,
+      "characters": 610,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 9,
+      "characters": 613,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "糖糖⋯••」，文學造境會降低。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 10,
+      "characters": 539,
+      "line_count": 21,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 11,
+      "characters": 489,
+      "line_count": 20,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 12,
+      "characters": 673,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 13,
+      "characters": 555,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 14,
+      "characters": 566,
+      "line_count": 21,
+      "low_confidence_lines": [
+        {
+          "text": "了。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 15,
+      "characters": 587,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "了。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 16,
+      "characters": 650,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "世界背後的世界",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 17,
+      "characters": 562,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 18,
+      "characters": 626,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "「『逍遙』這兩個字⋯⋯•是可以這麼用的嗎？」",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 19,
+      "characters": 669,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "波羅蜜多時⋯⋯」有沒有聽過這句話？",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "Maitreya．意譯：慈",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 20,
+      "characters": 607,
+      "line_count": 22,
+      "low_confidence_lines": [
+        {
+          "text": "了。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 21,
+      "characters": 626,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 22,
+      "characters": 663,
+      "line_count": 25,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 23,
+      "characters": 663,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 24,
+      "characters": 587,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 25,
+      "characters": 599,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 26,
+      "characters": 621,
+      "line_count": 25,
+      "low_confidence_lines": [
+        {
+          "text": "仔組挠剔",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "be conditoned",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 27,
+      "characters": 664,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 28,
+      "characters": 620,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 29,
+      "characters": 557,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 30,
+      "characters": 594,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 31,
+      "characters": 622,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 32,
+      "characters": 638,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 33,
+      "characters": 623,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "沒破功！",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 34,
+      "characters": 574,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 35,
+      "characters": 653,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "轉的跡象——這個叫作慈悲。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 36,
+      "characters": 755,
+      "line_count": 26,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 37,
+      "characters": 618,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 38,
+      "characters": 620,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 39,
+      "characters": 619,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "該！」",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 40,
+      "characters": 537,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "種轉躧器。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 41,
+      "characters": 659,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 42,
+      "characters": 589,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 43,
+      "characters": 646,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 44,
+      "characters": 631,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 45,
+      "characters": 662,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "二脈上的這個事情⋯⋯",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 46,
+      "characters": 619,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 47,
+      "characters": 589,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 48,
+      "characters": 574,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 49,
+      "characters": 522,
+      "line_count": 22,
+      "low_confidence_lines": [
+        {
+          "text": "我要愉悅、不要有壓力什麼的⋯⋯」對不對？",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 50,
+      "characters": 467,
+      "line_count": 20,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 51,
+      "characters": 550,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 52,
+      "characters": 562,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 53,
+      "characters": 640,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "悟，就是⋯⋯",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "人叫蓥•城•籤。",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "誰來買香煙嗎？呀啊～！是、是⋯••金城武呀啊啊啊啊啊⋯⋯！」",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 54,
+      "characters": 531,
+      "line_count": 21,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 55,
+      "characters": 509,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "有所刺激，受了痛苦—可是回頭一看⋯⋯",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "可是呢——",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 56,
+      "characters": 675,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 57,
+      "characters": 613,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 58,
+      "characters": 612,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 59,
+      "characters": 641,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 60,
+      "characters": 575,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 61,
+      "characters": 593,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 62,
+      "characters": 575,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 63,
+      "characters": 736,
+      "line_count": 25,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 64,
+      "characters": 741,
+      "line_count": 27,
+      "low_confidence_lines": [
+        {
+          "text": "人吃了是非之果：位格就高到像上帝一樣」",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 65,
+      "characters": 651,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 66,
+      "characters": 656,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 67,
+      "characters": 649,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 68,
+      "characters": 693,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "偏食到極點",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 69,
+      "characters": 614,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 70,
+      "characters": 644,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 71,
+      "characters": 563,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "麼呢？",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 72,
+      "characters": 583,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 73,
+      "characters": 549,
+      "line_count": 21,
+      "low_confidence_lines": [
+        {
+          "text": "起來難。』）",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 74,
+      "characters": 658,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 75,
+      "characters": 530,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 76,
+      "characters": 551,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 77,
+      "characters": 642,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 78,
+      "characters": 581,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 79,
+      "characters": 65,
+      "line_count": 3,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 80,
+      "characters": 525,
+      "line_count": 21,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 81,
+      "characters": 554,
+      "line_count": 22,
+      "low_confidence_lines": [
+        {
+          "text": "已。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 82,
+      "characters": 604,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 83,
+      "characters": 592,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 84,
+      "characters": 611,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 85,
+      "characters": 685,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "人「意守人中」的，人中後面就是那個否抵上牙酿”鬆羁滿”的地方，",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 86,
+      "characters": 627,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "伍冲庄，柳華陽，趙避盟",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "約豐些花嚴潤：之法好了，說說糊仙票的那一套：",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 87,
+      "characters": 663,
+      "line_count": 27,
+      "low_confidence_lines": [
+        {
+          "text": "卯西周天",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "站著練也行的",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 88,
+      "characters": 672,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 89,
+      "characters": 684,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 90,
+      "characters": 636,
+      "line_count": 25,
+      "low_confidence_lines": [
+        {
+          "text": "子午周天",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 91,
+      "characters": 670,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 92,
+      "characters": 646,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 93,
+      "characters": 595,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 94,
+      "characters": 560,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 95,
+      "characters": 595,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 96,
+      "characters": 523,
+      "line_count": 21,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 97,
+      "characters": 586,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 98,
+      "characters": 623,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 99,
+      "characters": 646,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 100,
+      "characters": 653,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "丁。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 101,
+      "characters": 650,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "人要慈聽'朵萋執著」這種話的時候，P鵝型」也就是天魔，就造出來",
+          "confidence": 0.30000001192092896
+        },
+        {
+          "text": "丁。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 102,
+      "characters": 569,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 103,
+      "characters": 555,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 104,
+      "characters": 589,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 105,
+      "characters": 586,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "能不能做到？⋯⋯太難了？對不對？",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 106,
+      "characters": 616,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 107,
+      "characters": 633,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "迎入衪的心中⋯⋯•",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 108,
+      "characters": 710,
+      "line_count": 23,
+      "low_confidence_lines": [
+        {
+          "text": "什麼時候呀？「Oh! Oh! God! Oh, God! lam cumming！.•••」，是什麼",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 109,
+      "characters": 711,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 110,
+      "characters": 674,
+      "line_count": 25,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 111,
+      "characters": 663,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 112,
+      "characters": 695,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 113,
+      "characters": 590,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 114,
+      "characters": 750,
+      "line_count": 25,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 115,
+      "characters": 567,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 116,
+      "characters": 702,
+      "line_count": 25,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 117,
+      "characters": 585,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 118,
+      "characters": 600,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 119,
+      "characters": 589,
+      "line_count": 22,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 120,
+      "characters": 606,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "心力大到穩到不曾被任何意見撩動",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 121,
+      "characters": 607,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 122,
+      "characters": 638,
+      "line_count": 24,
+      "low_confidence_lines": [
+        {
+          "text": "你的這一大坨信念群，你所有的「我應該⋯⋯」、「你應該⋯⋯」這些原",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 123,
+      "characters": 649,
+      "line_count": 24,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 124,
+      "characters": 619,
+      "line_count": 22,
+      "low_confidence_lines": [
+        {
+          "text": "講啊⋯好想講清楚啊⋯⋯」就是放不下那個王八蛋。",
+          "confidence": 0.30000001192092896
+        }
+      ]
+    },
+    {
+      "page": 125,
+      "characters": 649,
+      "line_count": 23,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 126,
+      "characters": 685,
+      "line_count": 25,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 127,
+      "characters": 560,
+      "line_count": 21,
+      "low_confidence_lines": []
+    },
+    {
+      "page": 128,
+      "characters": 162,
+      "line_count": 7,
+      "low_confidence_lines": []
+    }
+  ]
+}

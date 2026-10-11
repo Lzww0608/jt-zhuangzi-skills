@@ -1,0 +1,44 @@
+{
+  "date": "2026-10-11",
+  "source_pages": 1586,
+  "corpus_characters": 1939183,
+  "original_navigation": {
+    "thought_cards": 276,
+    "example_entries": 509
+  },
+  "second_review": [
+    {
+      "source_range": "early",
+      "pages": 480,
+      "supplement_entries": 384,
+      "supplement_characters": 60895,
+      "supplement_sha256": "0a7931e85073cc838d965e512ad92cd0f370277763a6c7fa501c6c4705117aa9"
+    },
+    {
+      "source_range": "middle",
+      "pages": 480,
+      "supplement_entries": 265,
+      "supplement_characters": 43585,
+      "supplement_sha256": "ca93d5ac0ba02aae603e15437efb057a4a536e4544c6a4ed8ad6e4d9059cfa47"
+    },
+    {
+      "source_range": "late",
+      "pages": 498,
+      "supplement_entries": 205,
+      "supplement_characters": 62382,
+      "supplement_sha256": "b31b5f05b76ffe5c8b4748646607059170ffaf0590b02776f682f2b47061c48f"
+    },
+    {
+      "source_range": "jibengong",
+      "pages": 128,
+      "supplement_entries": 24,
+      "supplement_characters": 14491,
+      "supplement_sha256": "4c7d8380c057899e49eb3de2882ea7e74b4502d05006cdc085f4d7f833d35481"
+    }
+  ],
+  "new_or_refined_navigation_entries": 878,
+  "supplement_characters": 181353,
+  "ocr_notes_total": 48,
+  "new_ocr_notes": 46,
+  "interpretation": "Card counts are discoverable entries, not independent theories or stories; page-level topics/examples may repeat across pages."
+}

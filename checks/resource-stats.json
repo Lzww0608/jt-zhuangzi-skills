@@ -1,0 +1,18 @@
+{
+  "course-early": {
+    "concept_cards": 98,
+    "example_cards": 170
+  },
+  "course-middle": {
+    "concept_cards": 66,
+    "example_cards": 140
+  },
+  "course-late": {
+    "concept_cards": 92,
+    "example_cards": 157
+  },
+  "jibengong": {
+    "concept_cards": 20,
+    "example_cards": 42
+  }
+}
