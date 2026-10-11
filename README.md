@@ -1,6 +1,6 @@
 # JT叔叔的庄子 Skill
 
-用JT叔叔（谭杰中）讲述的庄子，帮助理解自己的情绪、关系、工作选择、真实好恶与生活练习。默认充分阅读原文，允许慢和较多token。
+用JT叔叔（谭杰中）讲述的庄子，帮助理解自己的情绪、关系、工作选择、真实好恶与生活练习。默认充分阅读原文，允许慢和较多token；以《内七篇课程》的完整论证深入问题，《基本功》作体系和练法对照。
 
 入口是 [SKILL.md](SKILL.md)。本文件夹本身就是完整技能，不需要原先的下载路径。
 
@@ -33,7 +33,9 @@ ln -s /Users/lzww/jt-zhuangzi-skills ~/.agents/skills/jt-zhuangzi-skills
 
 > 请用 $jt-zhuangzi-skills 帮我看这个问题。请充分读相关原文，可以慢一些，使用JT的例子，给我一个可以在生活中练的切入点。
 
-首次新对话默认分批通读《基本功》及扫描校注，再读取全部课程思想地图、四份复核补充、两份讲义中的相关上下文。同一对话已读的内容可以复用。阅读深度和最终回答长度是两回事，你可以要求回答短些而仍充分阅读。
+首次新对话默认分批通读《基本功》及扫描校注，再读取全部课程思想地图、四份复核补充、两份讲义中的相关上下文。深入个人困惑时至少完整读最贴合的一讲，并追到必要承接、条件和修正；事件描述短也适用。同一对话已读的内容可以复用。阅读深度和最终回答长度是两回事，你可以要求回答短些而仍充分阅读。
+
+2026-10-11针对“引用有了，分析仍浅”的反馈，另补了[深入分析规程](references/depth/analysis-method.md)和[课程机制细读](references/depth/course-work-mechanisms.md)：要求重建原文怎样走到结论、对照具体心理片刻、让实际事实能够修正判断，再选对应的练习。并用转正谈话及四个变体做定向比较。可以直接对比[用户提供的原回答](checks/depth-baseline.md)与[转正案例修订示范](checks/promotion-depth-example.md)。充分收录和充分解释分开检验，不以引文数量证明深度。
 
 ## 回查资料
 
@@ -45,7 +47,9 @@ ln -s /Users/lzww/jt-zhuangzi-skills ~/.agents/skills/jt-zhuangzi-skills
 - [课程早段](references/maps/course-early.md) · [课程中段](references/maps/course-middle.md) · [课程后段](references/maps/course-late.md)
 - [逐页第二轮复核与四份补充](references/review/index.md) · [最终完整复核报告](checks/complete-review.md)
 - [阅读、页码与OCR说明](references/reading-method.md)
+- [深入分析规程](references/depth/analysis-method.md) · [工作评价、代偿与愿景的课程细读](references/depth/course-work-mechanisms.md)
 - [创建与实际试用验证](checks/validation.md) · [工作问题回答示例](checks/work-example.md) · [亲情问题回答示例](checks/family-example.md)
+- [本轮深度修订与验证](checks/depth-revision.md) · [独立评审](checks/depth-evaluation.md) · [转正问题修订示范](checks/promotion-depth-example.md)
 
 技能会区分JT原有解释、原例与针对你的推论。玄学语言保留其体系含义；反省、真小人、支离其德会和自责、天然同理心、具体条件一起理解。
 

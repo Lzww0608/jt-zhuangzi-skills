@@ -1,6 +1,6 @@
 interface:
   display_name: "JT叔叔的庄子"
-  short_description: "从两份完整讲义出发，深入理解个人困惑、真实好恶与生活中的修心练习"
-  default_prompt: "请用 $jt-zhuangzi-skills 充分阅读两份讲义的完整相关原文、思想地图与逐页复核补充，从JT叔叔讲的庄子出发回应我的问题，并使用贴合的原例与可实行的练习。"
+  short_description: "以内七篇完整论证深入个人处境与心理过程，保留JT原例、思想全貌及练法"
+  default_prompt: "请用 $jt-zhuangzi-skills 充分阅读两份讲义及复核补充，以《内七篇课程》的完整论证为主线，深入分析我具体处境中的心理运作和改变关节。请保留贴合的JT原例，区分已知事实与候选解释，让我的实际情况能够修正判断，再给对应的练习。"
 policy:
   allow_implicit_invocation: true
